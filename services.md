@@ -25,7 +25,7 @@ Keep your Drupal environments up-to-date and secure.
 * Configuration export
 * Functional testing
 
-Pricing: $200 per environment, per month. Cancel any time. 
+Pricing: $200 per environment, per month. Cancel any time. Not responsible for broken images, content or prior incorrect configuration. 
 
 ---
 
