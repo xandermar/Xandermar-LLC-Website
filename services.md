@@ -13,6 +13,22 @@ At Xandermar LLC, we provide a comprehensive suite of digital solutions tailored
 
 ---
 
+## 🔒 Drupal Flat-Rate Upgrade Service
+
+Keep your Drupal environments up-to-date and secure.
+
+**Services include (performed before and after updates):**
+* Codebase backup in repository or disk
+* Database backup in disk
+* Codebase update via composer
+* Database update
+* Configuration export
+* Functional testing
+
+Pricing: $200 per environment, per month. Cancel any time. 
+
+---
+
 ## 🧩 Drupal Development and Consulting
 
 With over two decades of hands-on experience, Xandermar LLC offers expert **Drupal development and consulting services** tailored to enterprise, government, and private-sector needs. From crafting high-performance custom modules and themes to building API-first architectures with Angular or React frontends, we specialize in scalable, secure, and future-proof solutions.
