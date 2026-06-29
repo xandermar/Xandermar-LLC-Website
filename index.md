@@ -12,6 +12,14 @@ layout: default
 **At Xandermar LLC, we don’t just build websites — we architect solutions that scale, perform, and deliver.**
 With over 25 years of experience powering complex digital ecosystems for federal agencies and private enterprises, we specialize in mission-critical development, cloud-native deployments, and intelligent automation.
 
+<div style="margin:1.25rem 0 0.6rem;padding:1rem 1.2rem;border:2px solid #dcfce7;border-left:6px solid #15803d;background:#f6fff9;border-radius:10px;">
+	<strong style="display:block;margin-bottom:0.35rem;color:#14532d;font-size:1.05rem;">New: AI Assistant for Appointment Scheduling</strong>
+	Capture more opportunities with automated call handling for live callers and voicemail follow-up.
+	<p style="margin:0.7rem 0 0;">
+		<a href="/services/ai-assistant" style="display:inline-block;background:#15803d;color:#ffffff;text-decoration:none;font-weight:700;padding:0.55rem 0.9rem;border-radius:8px;">Explore AI Assistant</a>
+	</p>
+</div>
+
 ---
 
 ### Why Organizations Trust Xandermar LLC
