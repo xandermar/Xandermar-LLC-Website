@@ -68,6 +68,13 @@ Every day your business relies on slow, manual prospecting is another day compet
 
 AI lead generation and prospecting can help your business stop guessing, stop waiting, and start pursuing the customers you actually want. With the right AI strategy, your small business can find better leads, contact them faster, follow up more consistently, and turn more opportunities into paying customers. The businesses that win are not always the biggest. They are the ones that move first, move fast, and use better tools.
 
+<div class="quick-links-panel">
+	<strong class="quick-links-title">Related AI Services</strong>
+	<a href="/services/ai-assistant/AI-Sales-Outreach-and-Follow-Up-Automation">AI sales outreach and follow-up automation</a> |
+	<a href="/services/ai-assistant/AI-Website-Chatbot-Customer-Service-Assistant">AI website chatbot and customer service assistant</a> |
+	<a href="/services/ai-assistant/AI-CRM-quoting-and-proposal-automation">AI CRM, quoting, and proposal automation</a>
+</div>
+
 <section class="feature-panel">
 	<strong class="feature-panel-title">Ready to Build a Stronger Lead Engine?</strong>
 	<p>Let&#39;s identify where AI can improve prospecting, outreach, and follow-up so your pipeline grows with less manual effort.</p>

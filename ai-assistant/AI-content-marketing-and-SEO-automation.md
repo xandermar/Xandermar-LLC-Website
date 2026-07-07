@@ -90,6 +90,13 @@ Your website should not just sit online like a digital brochure. It should expla
 
 The businesses that win online are not always the biggest. They are the ones that show up consistently, answer customer questions clearly, and make it easy for people to take the next step. AI gives your business the ability to do that faster, smarter, and more aggressively than ever before. If your website is not producing leads, your content is not ranking, or your marketing feels inconsistent, AI content marketing and SEO automation can turn your online presence into a serious revenue machine.
 
+<div class="quick-links-panel">
+	<strong class="quick-links-title">Related AI Services</strong>
+	<a href="/services/ai-assistant/AI-Website-Chatbot-Customer-Service-Assistant">AI website chatbot and customer service assistant</a> |
+	<a href="/services/ai-assistant/AI-Lead-Generation-and-Prospecting">AI lead generation and prospecting</a> |
+	<a href="/services/ai-assistant/AI-CRM-quoting-and-proposal-automation">AI CRM, quoting, and proposal automation</a>
+</div>
+
 <section class="feature-panel">
 	<strong class="feature-panel-title">Ready to Make AI Part of Your Marketing Stack?</strong>
 	<p>Let&#39;s review the SEO, content, and automation opportunities that can help your website attract more traffic and convert more leads.</p>
