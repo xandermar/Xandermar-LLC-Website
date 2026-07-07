@@ -3,9 +3,11 @@ layout: default
 title: About
 permalink: /about
 nav_order: 1
+hero_image: /assets/about-header.png
+hero_image_alt: About Xandermar and our beginnings
 ---
 
-![About Us Header](/assets/about-header.png){: .img-fluid }
+![{{ page.hero_image_alt }}]({{ page.hero_image }}){: .img-fluid }
 
 ### And So It Began…
 

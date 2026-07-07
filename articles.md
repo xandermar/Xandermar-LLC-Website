@@ -20,14 +20,5 @@ nav_order: 4.1
 </div>
 {% endfor %}
 </div>
-<!-- <div class="container">
-<ul class="row">
-  {% for post in site.posts %}
-    <li class="m-1 col-md-3 bg-light" style="list-style: none;">
-      <div><a href="{{ post.url | relative_url }}">{{ post.title }}</a> <small>({{ post.date | date: "%B %d, %Y" }})</small></div>
-      <div>{{ post.post_description }}</div>
-    </li>
-  {% endfor %}
-</ul>
-</div> -->
+
 <div class="mt-3 mb-3">See <a href="/categories">Post Categories</a></div>
