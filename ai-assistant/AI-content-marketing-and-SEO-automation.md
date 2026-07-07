@@ -87,3 +87,11 @@ Your website should not just sit online like a digital brochure. It should expla
 ## Start Turning Content Into Customers
 
 The businesses that win online are not always the biggest. They are the ones that show up consistently, answer customer questions clearly, and make it easy for people to take the next step. AI gives your business the ability to do that faster, smarter, and more aggressively than ever before. If your website is not producing leads, your content is not ranking, or your marketing feels inconsistent, AI content marketing and SEO automation can turn your online presence into a serious revenue machine.
+
+<section class="feature-panel">
+	<strong class="feature-panel-title">Ready to Make AI Part of Your Marketing Stack?</strong>
+	<p>Let&#39;s review the SEO, content, and automation opportunities that can help your website attract more traffic and convert more leads.</p>
+	<p class="feature-panel-cta-wrap">
+		<a href="/contact-us#free-ai-consultation" class="feature-panel-cta">Book a Free AI Strategy Call</a>
+	</p>
+</section>

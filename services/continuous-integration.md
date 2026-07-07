@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Continuous Integration and DevOps Services
-permalink: /services/continuous-integration-and-devlops-services
+permalink: /services/continuous-integration-and-devops-services
 nav_exclude: true
 ---
 [Back to Services](/services)

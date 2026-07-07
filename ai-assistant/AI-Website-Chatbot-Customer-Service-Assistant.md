@@ -71,3 +71,11 @@ Your website should be more than an online brochure. It should be a lead generat
 ## Ready to Stop Missing Leads?
 
 Add an AI website chatbot to your business and start turning more visitors into conversations, more conversations into leads, and more leads into revenue. Your customers are already asking questions. Your website should be ready to answer.
+
+<section class="feature-panel">
+	<strong class="feature-panel-title">Ready to Turn Your Website Into a Sales Assistant?</strong>
+	<p>Review the best chatbot and customer-service automation options for your business and turn more website traffic into qualified conversations.</p>
+	<p class="feature-panel-cta-wrap">
+		<a href="/contact-us#free-ai-consultation" class="feature-panel-cta">Book a Free AI Strategy Call</a>
+	</p>
+</section>

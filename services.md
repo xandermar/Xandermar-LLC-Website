@@ -117,7 +117,7 @@ Our services aim to bridge the gap between your business and customers, providin
 ---
 
 <a id="continuous-integration"></a>
-## <span class="xi-automation xi-24 xi-blue xi-inline" aria-hidden="true"></span>[Continuous Integration and DevOps Services](/services/continuous-integration-and-devlops-services)
+## <span class="xi-automation xi-24 xi-blue xi-inline" aria-hidden="true"></span>[Continuous Integration and DevOps Services](/services/continuous-integration-and-devops-services)
 
 Streamline your development process with our Continuous Integration services. We help automate workflows to ensure:
 

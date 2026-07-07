@@ -319,6 +319,14 @@ Good governance helps businesses benefit from AI while reducing risk, protecting
 
 ---
 
+<section class="feature-panel">
+	<strong class="feature-panel-title">Ready to Plan Your AI Rollout?</strong>
+	<p>Book a strategy call to review your goals, identify the highest-value automation opportunities, and map out the right next step.</p>
+	<p class="feature-panel-cta-wrap">
+		<a href="/contact-us#free-ai-consultation" class="feature-panel-cta">Book a Free AI Strategy Call</a>
+	</p>
+</section>
+
 ## Custom AI Solutions
 
 Custom AI solutions are built around a specific business, industry, process, customer base, or operational need.

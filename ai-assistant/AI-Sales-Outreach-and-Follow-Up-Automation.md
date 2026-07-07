@@ -58,3 +58,11 @@ Manual sales follow-up is slow, inconsistent, and expensive. AI sales outreach a
 ## Turn AI Into New Revenue
 
 The businesses that win are the ones that respond faster, follow up harder, and stay visible longer. AI makes that possible. It gives small businesses the tools to convert more leads, recover lost opportunities, increase customer engagement, and create a repeatable sales process that produces real income. Stop depending on memory, sticky notes, inbox chaos, and random follow-up. Build a smarter sales system that turns interest into action and action into revenue.
+
+<section class="feature-panel">
+	<strong class="feature-panel-title">Ready to Strengthen Follow-Up?</strong>
+	<p>We can map the outreach, reminders, and sales automations that help your team respond faster and close more business.</p>
+	<p class="feature-panel-cta-wrap">
+		<a href="/contact-us#free-ai-consultation" class="feature-panel-cta">Book a Free AI Strategy Call</a>
+	</p>
+</section>

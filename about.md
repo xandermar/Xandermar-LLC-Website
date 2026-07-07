@@ -11,11 +11,11 @@ hero_image_alt: About Xandermar and our beginnings
 
 ### And So It Began…
 
-Xandermar was founded in 2010. We are a small business that caters to website development. We focus on websites, plain and simple. From drafting, branding and planning to multi-platform production, we deliver engaging and functional websites to our clients both small business and large Enterprise agencies.
+Xandermar was founded in 2010 and has grown into a modern engineering partner for organizations that need AI, automation, Drupal, and enterprise-grade delivery. We help teams move from manual, fragile workflows to scalable systems that improve speed, reliability, and business outcomes.
 
-Our platform focus packages are Drupal and WordPress. We consult agencies with these platforms plus continuous integration, containerization, and full deployment schema. All of our systems are deployed using Apache lamp stack whether standard architecture or containerized architecture.
+Our core services combine Drupal engineering, AI-assisted process design, and DevOps practices across the full delivery lifecycle. From architecture and implementation to CI/CD, containerized environments, and platform operations, we build solutions that are secure, maintainable, and ready for long-term growth.
 
-Our containerized architecture can be either custom or integrated with other architectural platforms such as Amazon or Acquia.
+We support both small businesses and large enterprise agencies with practical consulting and hands-on execution. Whether extending legacy platforms or launching new products, we focus on clear communication, measurable value, and dependable engineering standards.
 
 ### Why the turtle?
 

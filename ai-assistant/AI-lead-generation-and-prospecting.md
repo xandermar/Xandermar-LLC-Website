@@ -65,3 +65,11 @@ Every day your business relies on slow, manual prospecting is another day compet
 ## Start Building a Smarter Sales Pipeline
 
 AI lead generation and prospecting can help your business stop guessing, stop waiting, and start pursuing the customers you actually want. With the right AI strategy, your small business can find better leads, contact them faster, follow up more consistently, and turn more opportunities into paying customers. The businesses that win are not always the biggest. They are the ones that move first, move fast, and use better tools.
+
+<section class="feature-panel">
+	<strong class="feature-panel-title">Ready to Build a Stronger Lead Engine?</strong>
+	<p>Let&#39;s identify where AI can improve prospecting, outreach, and follow-up so your pipeline grows with less manual effort.</p>
+	<p class="feature-panel-cta-wrap">
+		<a href="/contact-us#free-ai-consultation" class="feature-panel-cta">Book a Free AI Strategy Call</a>
+	</p>
+</section>

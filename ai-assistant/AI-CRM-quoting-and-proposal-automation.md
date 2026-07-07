@@ -73,3 +73,11 @@ Your competitors are not always better. Sometimes they are just faster, more org
 ## Ready to Turn More Opportunities Into Revenue?
 
 If your business is still managing leads manually, building quotes from scratch, and writing proposals one at a time, you are leaving money on the table. AI CRM, quoting, and proposal automation helps create a faster, more professional, more aggressive sales process designed to capture more leads, close more deals, and generate real growth. The businesses that move faster will win more customers. The businesses that automate will scale with less waste. The businesses that act now will have the advantage.
+
+<section class="feature-panel">
+	<strong class="feature-panel-title">Ready to Modernize Your Sales Workflow?</strong>
+	<p>Book a strategy call to review CRM automation, faster quoting, and proposal workflows that help your team close more opportunities.</p>
+	<p class="feature-panel-cta-wrap">
+		<a href="/contact-us#free-ai-consultation" class="feature-panel-cta">Book a Free AI Strategy Call</a>
+	</p>
+</section>
