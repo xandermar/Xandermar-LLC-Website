@@ -32,13 +32,13 @@ At Xandermar LLC, we provide a comprehensive suite of digital solutions tailored
 	<a href="#web-design-and-hosting">Web Design and Hosting</a> |
 	<a href="#easy-signage">Easy Signage</a> |
 	<a href="#youtube-video-production-services">YouTube Video Production</a> |
-	<a href="#continuous-integration">Continuous Integration</a>
+	<a href="#continuous-integration">Continuous Integration and DevOps Services</a>
 </div>
 
 ---
 
 <a id="drupal-flat-rate-upgrade-service"></a>
-## 🔒 Drupal Flat-Rate Upgrade Service
+## 🔒 [Drupal Flat-Rate Upgrade Service](/services/drupal-flat-rate-upgrade-service)
 
 Keep your Drupal environments up-to-date and secure.
 
@@ -50,12 +50,12 @@ Keep your Drupal environments up-to-date and secure.
 * Configuration export
 * Functional testing
 
-Pricing: $200 per environment, per month. Cancel any time. Not responsible for broken images, content or prior incorrect configuration. 
+Pricing: $200 per environment, per month. Cancel any time. Not responsible for broken images, content or prior incorrect configuration.
 
 ---
 
 <a id="drupal-development-and-consulting"></a>
-## 🧩 Drupal Development and Consulting
+## 🧩 [Drupal Development and Consulting](/services/drupal-development-and-consulting)
 
 With over two decades of hands-on experience, Xandermar LLC offers expert **Drupal development and consulting services** tailored to enterprise, government, and private-sector needs. From crafting high-performance custom modules and themes to building API-first architectures with Angular or React frontends, we specialize in scalable, secure, and future-proof solutions.
 
@@ -75,7 +75,7 @@ Trust Xandermar LLC to deliver robust solutions that grow with your organization
 ---
 
 <a id="web-design-and-hosting"></a>
-## 🎨 Web Design and Hosting
+## 🎨 [Web Design and Hosting](/services/web-design-and-hosting)
 
 We specialize in creating visually appealing and functional websites using Drupal or WordPress, depending on your requirements. Whether you're launching a new site or revamping an existing one, our team offers:
 
@@ -89,7 +89,7 @@ Our goal is to help you reach an unlimited customer base with a website that dri
 ---
 
 <a id="easy-signage"></a>
-## 📺 Easy Signage
+## 📺 [Easy Signage](/services/easy-signage)
 
 Enhance your business's visual communication with our Easy Signage service. Ideal for restaurants, hotels, and entertainment venues, this service allows you to:
 
@@ -102,7 +102,7 @@ Pricing starts at \$149.95 per month, with an optional \$200 installation fee an
 ---
 
 <a id="youtube-video-production-services"></a>
-## 🎥 YouTube Video Production Services
+## 🎥 [YouTube Video Production Services](/services/youtube-video-productions-services)
 
 Engage your audience with high-quality video content through our YouTube Video Production Services. We offer:
 
@@ -115,7 +115,7 @@ Our services aim to bridge the gap between your business and customers, providin
 ---
 
 <a id="continuous-integration"></a>
-## 🔄 Continuous Integration
+## 🔄 [Continuous Integration and DevOps Services](/services/continuous-integration-and-devlops-services)
 
 Streamline your development process with our Continuous Integration services. We help automate workflows to ensure:
 
