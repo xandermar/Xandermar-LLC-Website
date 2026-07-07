@@ -6,6 +6,13 @@ nav_order: 4
 calendy_id: xandermarllc
 hero_image: /assets/images/contact.png
 hero_image_alt: Prior projects and work by Xandermar LLC
+faqs:
+  - question: How quickly do you respond to new inquiries?
+    answer: We typically respond to new inquiries within one business day with practical next steps or a request for any missing details.
+  - question: What happens during the free AI consultation?
+    answer: The free AI consultation is a no-pressure strategy call where we review your goals, current workflow, and the best automation opportunities for your business.
+  - question: Do you only work with Delaware clients?
+    answer: No. Xandermar is based in Delaware, serves clients across the United States remotely, and can provide on-site support in Delaware and nearby Mid-Atlantic regions when needed.
 ---
 
 {% include hero.md %}
@@ -120,5 +127,23 @@ hero_image_alt: Prior projects and work by Xandermar LLC
 		<div class="calendly-inline-widget calendly-widget" data-url="https://calendly.com/{{ page.calendy_id }}/chat"></div>
 		<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 		<!-- Calendly inline widget end -->
+	</div>
+</section>
+
+<section class="card border-0 mt-4">
+	<div class="card-body p-4 p-lg-5">
+		<h2 class="h4 mb-4">Frequently Asked Questions</h2>
+		<div class="mb-4">
+			<h3 class="h5">How quickly do you respond to new inquiries?</h3>
+			<p class="mb-0">We typically respond to new inquiries within one business day with practical next steps or a request for any missing details.</p>
+		</div>
+		<div class="mb-4">
+			<h3 class="h5">What happens during the free AI consultation?</h3>
+			<p class="mb-0">The free AI consultation is a no-pressure strategy call where we review your goals, current workflow, and the best automation opportunities for your business.</p>
+		</div>
+		<div>
+			<h3 class="h5">Do you only work with Delaware clients?</h3>
+			<p class="mb-0">No. Xandermar is based in Delaware, serves clients across the United States remotely, and can provide on-site support in Delaware and nearby Mid-Atlantic regions when needed.</p>
+		</div>
 	</div>
 </section>

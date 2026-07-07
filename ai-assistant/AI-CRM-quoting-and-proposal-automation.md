@@ -3,6 +3,8 @@ layout: default
 title: AI CRM, Quoting, and Proposal Automation
 permalink: /services/ai-assistant/AI-CRM-quoting-and-proposal-automation
 nav_exclude: true
+schema_type: Service
+schema_description: AI CRM, quoting, and proposal automation that helps businesses organize leads, accelerate quotes, and create more consistent sales workflows.
 ---
 [Back to Services > AI Assistant](/services/ai-assistant)
 

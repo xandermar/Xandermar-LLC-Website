@@ -3,6 +3,8 @@ layout: default
 title: AI Lead Generation and Prospecting
 permalink: /services/ai-assistant/AI-Lead-Generation-and-Prospecting
 nav_exclude: true
+schema_type: Service
+schema_description: AI lead generation and prospecting services that help businesses identify better prospects, automate outreach, and grow a more consistent sales pipeline.
 ---
 [Back to Services > AI Assistant](/services/ai-assistant)
 

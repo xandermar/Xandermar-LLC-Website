@@ -3,6 +3,8 @@ layout: default
 title: Web Design and Hosting
 permalink: /services/web-design-and-hosting
 nav_exclude: true
+schema_type: Service
+schema_description: Web design and hosting services focused on Drupal and WordPress websites that are secure, modern, and easy to maintain.
 ---
 [Back to Services](/services)
 

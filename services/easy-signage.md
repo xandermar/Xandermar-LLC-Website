@@ -3,6 +3,8 @@ layout: default
 title: Easy Signage
 permalink: /services/easy-signage
 nav_exclude: true
+schema_type: Service
+schema_description: Digital signage services for restaurants, hotels, entertainment venues, and other businesses that need remote content management.
 ---
 [Back to Services](/services)
 

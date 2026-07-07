@@ -3,6 +3,8 @@ layout: default
 title: AI Website Chatbot / Customer Service Assistant
 permalink: /services/ai-assistant/AI-Website-Chatbot-Customer-Service-Assistant
 nav_exclude: true
+schema_type: Service
+schema_description: AI website chatbot and customer service assistant solutions that capture leads, answer questions, and improve response times around the clock.
 ---
 [Back to Services > AI Assistant](/services/ai-assistant)
 

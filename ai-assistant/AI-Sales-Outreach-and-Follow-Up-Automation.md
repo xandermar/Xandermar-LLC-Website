@@ -3,6 +3,8 @@ layout: default
 title: AI Sales Outreach and Follow-Up Automation
 permalink: /services/ai-assistant/AI-Sales-Outreach-and-Follow-Up-Automation
 nav_exclude: true
+schema_type: Service
+schema_description: AI sales outreach and follow-up automation that helps businesses respond faster, revive cold leads, and increase sales consistency.
 ---
 [Back to Services > AI Assistant](/services/ai-assistant)
 

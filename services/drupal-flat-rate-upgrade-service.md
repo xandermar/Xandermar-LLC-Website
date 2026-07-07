@@ -3,6 +3,8 @@ layout: default
 title: Drupal Flat-Rate Upgrade Service
 permalink: /services/drupal-flat-rate-upgrade-service
 nav_exclude: true
+schema_type: Service
+schema_description: A flat-rate Drupal maintenance service for routine core and contributed module updates, backups, configuration exports, and functional testing.
 ---
 [Back to Services](/services)
 

@@ -5,6 +5,8 @@ permalink: /services
 nav_order: 2
 hero_image: /assets/services.jpg
 hero_image_alt: Services offered by Xandermar LLC
+schema_type: Service
+schema_description: Xandermar LLC provides AI automation, Drupal development, website engineering, digital signage, video production, and DevOps consulting services for organizations that need scalable digital solutions.
 ---
 
 {% include hero.md %}

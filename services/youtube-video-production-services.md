@@ -3,6 +3,8 @@ layout: default
 title: YouTube Video Production Services
 permalink: /services/youtube-video-productions-services
 nav_exclude: true
+schema_type: Service
+schema_description: YouTube video production services that improve video editing, audio quality, and channel visibility for business marketing.
 ---
 [Back to Services](/services)
 

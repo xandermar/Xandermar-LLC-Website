@@ -3,6 +3,8 @@ layout: default
 title: Continuous Integration and DevOps Services
 permalink: /services/continuous-integration-and-devops-services
 nav_exclude: true
+schema_type: Service
+schema_description: Continuous integration and DevOps consulting that improves build automation, testing, deployment reliability, and team delivery workflows.
 ---
 [Back to Services](/services)
 

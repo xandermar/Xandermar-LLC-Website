@@ -3,6 +3,8 @@ layout: default
 title: AI Website Chatbot / Customer Service Assistant
 permalink: /services/ai-assistant/AI-content-marketing-and-SEO-automation
 nav_exclude: true
+schema_type: Service
+schema_description: AI content marketing and SEO automation services that help businesses publish more effectively, improve visibility, and convert traffic into leads.
 ---
 [Back to Services > AI Assistant](/services/ai-assistant)
 

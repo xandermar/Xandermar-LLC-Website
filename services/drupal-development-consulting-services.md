@@ -3,6 +3,8 @@ layout: default
 title: Drupal Development and Consulting
 permalink: /services/drupal-development-and-consulting
 nav_exclude: true
+schema_type: Service
+schema_description: Drupal development, consulting, and migration services for enterprise, government, and private-sector organizations.
 ---
 [Back to Services](/services)
 

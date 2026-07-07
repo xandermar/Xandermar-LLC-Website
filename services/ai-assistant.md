@@ -3,6 +3,8 @@ layout: default
 title: AI Assistant
 permalink: /services/ai-assistant
 nav_exclude: true
+schema_type: Service
+schema_description: AI Assistant services that help businesses improve lead capture, follow-up, customer communication, scheduling, and workflow automation.
 ---
 [Back to Services](/services)
 
