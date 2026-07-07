@@ -6,7 +6,7 @@ categories: [web-performance, css, html]
 post_description: "Explore the world of 'Preloading' in this comprehensive article that dives into its concept, benefits, and various effective techniques within the context of improving web page performance and user experience."
 ---
 
-![Image](/assets/gd37a207c6b6d0e06d06e1a4bbe657a1d11734cfe84ab62436c1312ccf4cbe52af484dda4a055acee3e651046220744613f93deaa07cc56a33b0c2bf9ff81f009_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/gd37a207c6b6d0e06d06e1a4bbe657a1d11734cfe84ab62436c1312ccf4cbe52af484dda4a055acee3e651046220744613f93deaa07cc56a33b0c2bf9ff81f009_1280.jpg){: .img-fluid content-image-large }
 
 ## Preloading
 Preloading improves the performance of websites by fetching resources before they're needed. This technique ensures that necessary files are already downloaded and ready for use by the time a user initiates an action, like clicking a button, that requires them. This results in a smoother and faster user experience, which is ideal for users on slower network connections or for those accessing heavy web pages.

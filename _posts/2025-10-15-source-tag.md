@@ -6,7 +6,7 @@ categories: [web-development, html, coding-practices]
 post_description: "This article delves into the concept of 'Source Tag', shedding light on its function, implementation in various coding platforms and its crucial role in enhancing search engine optimization for technical blog posts."
 ---
 
-![Image](/assets/g4f94f4a1ead4ee5d42d1a4e194bb52ee0714519896bb7e543ab39b6c2e51ee46eddf6b003bbf2aacaa4a7395e114d068004fc514672572bdd5d223ce78e0501b_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/g4f94f4a1ead4ee5d42d1a4e194bb52ee0714519896bb7e543ab39b6c2e51ee46eddf6b003bbf2aacaa4a7395e114d068004fc514672572bdd5d223ce78e0501b_1280.jpg){: .img-fluid content-image-large }
 
 ## Source Tag
 

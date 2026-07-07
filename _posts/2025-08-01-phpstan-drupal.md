@@ -6,7 +6,7 @@ categories: [phpstan, drupal, web-development]
 post_description: "Explore the intricacies of integrating and leveraging Phpstan-drupal in your projects, a tool designed to catch bugs in your PHP code before they become evident in production."
 ---
 
-![Image](/assets/g2191faa9c56c130d88862148f2adf9723cf458aeb9db352a6a3fc1964516f8d00ec4a677ad9967c3d50f739ec17be807c0de41f61059f4cafa0681535774d883_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/g2191faa9c56c130d88862148f2adf9723cf458aeb9db352a6a3fc1964516f8d00ec4a677ad9967c3d50f739ec17be807c0de41f61059f4cafa0681535774d883_1280.jpg){: .img-fluid content-image-large }
 
 ## Phpstan-drupal
 

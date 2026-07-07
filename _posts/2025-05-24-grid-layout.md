@@ -6,7 +6,7 @@ categories: [web-design, css, front-end-development]
 post_description: "An in-depth guide to CSS Grid Layout, its benefits for responsive web design, and its integration with Drupal for modern, maintainable layouts."
 ---
 
-![Image](/assets/g7f64067be289f88938e5296c8a69a367cefebd30ac50aecb44716714128d8a50abcbde3a7efdfc336b403a805e766c07aed9e992d8e403682f69eadb64c9d1d2_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/g7f64067be289f88938e5296c8a69a367cefebd30ac50aecb44716714128d8a50abcbde3a7efdfc336b403a805e766c07aed9e992d8e403682f69eadb64c9d1d2_1280.jpg){: .img-fluid content-image-large }
 
 ## Grid Layout
 

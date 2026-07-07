@@ -6,13 +6,13 @@ categories: [apple, ddev, docker]
 post_description: "Learn how to install and configure DDEV on macOS to create a powerful local development environment using Docker. This step-by-step guide walks you through installing Homebrew, Docker Desktop, and DDEV, setting up your first project (e.g., Drupal, WordPress, or Laravel), and running your site at a secure local .ddev.site domain. Perfect for developers looking to streamline their local workflow on macOS."
 ---
 
-![Image](/assets/images/ddev-setup.png){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/images/ddev-setup.png){: .img-fluid content-image-large }
 
 ## Here's how to set up **DDEV** on macOS for local web development (e.g., Drupal, WordPress, Laravel):
 
 ---
 
-## ✅ Step-by-Step DDEV Setup on macOS
+## <span class="xi-shield-check xi-24 xi-green xi-inline" aria-hidden="true"></span>Step-by-Step DDEV Setup on macOS
 
 ### 1. **Install Homebrew (if not installed)**
 

@@ -6,7 +6,7 @@ categories: [design, web-development, graphic-design]
 post_description: "Explore the power of color in this technical blog post, as we delve into the science behind color palettes, how they enhance visual communication, and efficient strategies to choose the right color palette for your projects."
 ---
 
-![Image](/assets/g9961409c1565d9e3eabbf11fede8b640fe75c486d66aa6d5d72179a3610d7e02f12c33fac6dedf0ed48ce321d8be4a19325e690117a9105fb6d1c4c62f8ec864_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/g9961409c1565d9e3eabbf11fede8b640fe75c486d66aa6d5d72179a3610d7e02f12c33fac6dedf0ed48ce321d8be4a19325e690117a9105fb6d1c4c62f8ec864_1280.jpg){: .img-fluid content-image-large }
 
 ## Color Palette
 

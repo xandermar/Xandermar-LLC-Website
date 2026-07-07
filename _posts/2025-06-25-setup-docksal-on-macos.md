@@ -6,7 +6,7 @@ categories: [apple, docksal, docker]
 post_description: "Learn how to set up Docksal on macOS with this step-by-step guide. Whether you're building Drupal, WordPress, or custom web applications, Docksal provides a fast, reliable, and containerized development environment. This article covers installation, project initialization, useful commands, and tips for troubleshooting. Perfect for developers looking to streamline local development on macOS."
 ---
 
-![Image](/assets/images/docksal-setup.png){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/images/docksal-setup.png){: .img-fluid content-image-large }
 
 
 

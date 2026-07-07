@@ -6,7 +6,7 @@ categories: [seo, web-development, content-marketing]
 post_description: "Explore the importance of a proficiently written Meta Description for SEO rankings, its role in captivating user attention, best practices for crafting compelling Meta Descriptions, plus tips to avoid common mistakes in this all-encompassing guide."
 ---
 
-![Image](/assets/g2c9b62d78ce3b66382ba1b6b97c0a427bbcb85e9c942b3e123ee2adc93f98eb0f5416e4a21185de865d941407b0a4c04fcf011716d58594605171992adbcfc92_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/g2c9b62d78ce3b66382ba1b6b97c0a427bbcb85e9c942b3e123ee2adc93f98eb0f5416e4a21185de865d941407b0a4c04fcf011716d58594605171992adbcfc92_1280.jpg){: .img-fluid content-image-large }
 
 ## Meta Description
 

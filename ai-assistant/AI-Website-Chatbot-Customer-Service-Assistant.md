@@ -8,7 +8,7 @@ nav_exclude: true
 
 # AI Website Chatbot / Customer Service Assistant
 
-<img src="/assets/images/ai10.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai10.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 ## Turn Your Website Into a 24/7 Sales and Support Machine
 
@@ -18,7 +18,7 @@ Your website should not just sit there waiting for someone to fill out a contact
 
 Most small businesses lose money because they respond too slowly. A visitor lands on your website, has a question, gets confused, and leaves. That is lost revenue. An AI chatbot changes that immediately by engaging visitors the moment they need help. It can answer common questions about your services, pricing, availability, service areas, scheduling, estimates, policies, and next steps. Instead of forcing customers to search, wait, or call, your website gives them answers instantly.
 
-<img src="/assets/images/ai11.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai11.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 ## Capture More Leads Without Adding More Staff
 
@@ -28,7 +28,7 @@ Every visitor is an opportunity. An AI chatbot can collect names, phone numbers,
 
 Customers do not only shop during business hours. They browse at night, early in the morning, on weekends, and whenever a problem becomes urgent. If your business is not available when they are ready, someone else will be. An AI customer service assistant keeps your business responsive even when your office is closed. It can answer questions, collect service requests, route urgent issues, and make sure your business looks professional, available, and easy to work with at all times.
 
-<img src="/assets/images/ai12.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai12.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 ## Make Your Small Business Look Bigger, Faster, and More Professional
 
@@ -42,7 +42,7 @@ Your team should not waste valuable time answering the same questions over and o
 
 Traffic alone does not pay the bills. Conversions do. An AI chatbot helps turn website visitors into leads by guiding them toward the next step. It can ask smart questions, recommend the right service, explain why your business is the right choice, and push the visitor to request a quote, book a consultation, schedule a service, or submit their contact information. It gives your website a direct role in producing income, not just displaying information.
 
-<img src="/assets/images/ai13.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai13.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 ## Built Around Your Business, Not Generic Answers
 
@@ -56,7 +56,7 @@ Small businesses cannot afford to move slowly. When a customer is comparing comp
 
 This is not AI for the sake of hype. This is AI tied directly to business growth. More conversations. More captured leads. Faster responses. Better customer service. Less wasted staff time. More follow-up opportunities. A website chatbot can become one of the simplest and most effective AI upgrades a small business can make because it works where customers already are: on your website, deciding whether to contact you or move on.
 
-<img src="/assets/images/ai14.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai14.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 ## Get More From Every Visitor
 
@@ -66,7 +66,7 @@ If people are visiting your website, your business has already done part of the 
 
 Your website should be more than an online brochure. It should be a lead generator, customer service assistant, sales support tool, and business growth engine. An AI chatbot makes that possible. For small businesses that want more leads, faster responses, better customer experience, and more revenue opportunities, this is one of the most direct and practical AI investments available.
 
-<img src="/assets/images/ai15.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai15.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 ## Ready to Stop Missing Leads?
 

@@ -6,7 +6,7 @@ categories: [web-tech, programming, database-management]
 post_description: "Explore the significance of the 'Field Type' concept in database systems, and understand its implications in data storage, retrieval, and manipulation in a diverse range of technical applications."
 ---
 
-![Image](/assets/g11eec203fe4af9b4e03df9deb040c150b6422186c00c3e9a4fadfad66defa538df381965bd1ad386069c830ae1b1e0a254e9901221bd83542b765dff7cf01427_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/g11eec203fe4af9b4e03df9deb040c150b6422186c00c3e9a4fadfad66defa538df381965bd1ad386069c830ae1b1e0a254e9901221bd83542b765dff7cf01427_1280.jpg){: .img-fluid content-image-large }
 
 ## Field Type
 

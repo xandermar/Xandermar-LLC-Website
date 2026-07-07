@@ -6,7 +6,7 @@ categories: [drupal, web-development, programming]
 post_description: "This article provides an in-depth exploration of the 'hook_preprocess_hook' concept in Drupal, elucidating its usage, its functions, and practical examples to aid developers in enhancing and customizing web content effectively."
 ---
 
-![Image](/assets/g5b6f0d99c40a0c914a5bfc39a51e985ce230ae2e13c78dea35e156164dbee095635226e8bdecc8faa6c515f433521851f7a02e1df023a53eb34ef9231a8e9bac_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/g5b6f0d99c40a0c914a5bfc39a51e985ce230ae2e13c78dea35e156164dbee095635226e8bdecc8faa6c515f433521851f7a02e1df023a53eb34ef9231a8e9bac_1280.jpg){: .img-fluid content-image-large }
 
 ## Hook_preprocess_hook: A Primer
 

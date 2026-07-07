@@ -8,7 +8,7 @@ nav_exclude: true
 
 # AI Lead Generation and Prospecting for Small Businesses
 
-<img src="/assets/images/ai01.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai01.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 ## Stop Waiting for Customers to Find You
 
@@ -18,7 +18,7 @@ Most small businesses do not have a sales problem. They have a visibility, follo
 
 AI can scan markets, identify target customers, organize prospect data, uncover decision-makers, and help prioritize the leads most likely to buy. For small businesses, this means less wasted time chasing bad leads and more time focused on prospects that actually fit your services. Whether you serve homeowners, contractors, medical practices, property managers, local businesses, or specialized industries, AI can help build targeted prospect lists that are cleaner, more relevant, and more valuable than generic contact lists.
 
-<img src="/assets/images/ai02.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai02.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 ## Turn Cold Outreach Into a Revenue Machine
 
@@ -28,7 +28,7 @@ Traditional cold outreach is slow, inconsistent, and easy to ignore. AI-powered 
 
 Small businesses lose money every day because leads are not followed up with quickly or consistently. AI can help automate follow-ups, remind your team when to reach out, summarize conversations, organize responses, and keep opportunities moving. The fortune is in the follow-up, and AI makes sure fewer prospects slip through the cracks. A lead that would have been forgotten can become a quote, a booked appointment, a contract, or a long-term customer.
 
-<img src="/assets/images/ai03.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai03.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 ## Sell Smarter Without Hiring a Bigger Sales Team
 
@@ -42,7 +42,7 @@ A small business should not have to wonder where the next customer is coming fro
 
 One of the biggest obstacles in prospecting is not just finding people. It is knowing how to approach them. AI can help research each prospect, understand their likely pain points, identify service gaps, and create customized messaging. A roofing company, HVAC contractor, home builder, law firm, medical office, or property manager should not receive the same pitch. AI helps make your outreach specific, relevant, and harder to ignore.
 
-<img src="/assets/images/ai04.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai04.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 ## Convert More Website Visitors Into Leads
 
@@ -60,7 +60,7 @@ AI lead generation is not about hype. It is about income. More qualified prospec
 
 Every day your business relies on slow, manual prospecting is another day competitors can reach your future customers first. AI gives your company the ability to move aggressively, identify opportunities earlier, and stay in front of prospects before they choose someone else. If your business wants more leads, better sales conversations, and a stronger pipeline, AI lead generation is one of the fastest and most practical places to start.
 
-<img src="/assets/images/ai05.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai05.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 ## Start Building a Smarter Sales Pipeline
 

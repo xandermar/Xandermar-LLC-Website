@@ -8,12 +8,12 @@ nav_exclude: true
 
 {% include services.html %}
 
-## 🔒 Drupal Flat-Rate Upgrade Service
+## <span class="xi-lock xi-24 xi-charcoal xi-inline" aria-hidden="true"></span>Drupal Flat-Rate Upgrade Service
 Keep your Drupal environments up-to-date, secure, and stable without the stress of emergency patching.
 
 If you are running Drupal in production, updates are not optional. Core and contributed modules receive security releases and bug fixes regularly, and delaying updates increases risk over time. This service gives you a predictable monthly maintenance plan so your team can stay focused on business priorities while updates are handled professionally.
 
-![Drupal upgrade planning and execution](/assets/images/upgrade-drupal.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Drupal upgrade planning and execution](/assets/images/upgrade-drupal.jpg){: .img-fluid content-image-large }
 
 ### What This Service Solves
 
@@ -37,7 +37,7 @@ Database updates are applied and configuration is exported to help keep environm
 #### 4) Functional Verification
 Post-update validation checks core site functionality so update quality is reviewed before sign-off. Instead of assuming success because commands finished, this step confirms your site still behaves correctly where it matters most.
 
-![Drupal environment setup and maintenance workflow](/assets/images/setup-drupal-11.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Drupal environment setup and maintenance workflow](/assets/images/setup-drupal-11.jpg){: .img-fluid content-image-large }
 
 ### Benefits for Your Business
 

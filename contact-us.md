@@ -17,6 +17,6 @@ hero_image_alt: Prior projects and work by Xandermar LLC
 {: .text-center }
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/{{ page.calendy_id }}/chat" style="min-width:320px;height:1200px;"></div>
+<div class="calendly-inline-widget calendly-widget" data-url="https://calendly.com/{{ page.calendy_id }}/chat"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->

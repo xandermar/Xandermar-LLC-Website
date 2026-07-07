@@ -6,7 +6,7 @@ categories: [html, web-development, coding]
 post_description: "Exploring the role and utility of the 'Source Tag' in HTML, this article delves into its applications, proper usage, and common errors, a must-read for web developers and website designers."
 ---
 
-![Image](/assets/g2dfdab7bb5349c2a341bb4f3ba4c2669fe0a06f3b5dea69ed10511bdafca24ab373269ab6e85ae79d1315bd6a1b179510d58877e6afa08425ff73b581a0e67d6_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/g2dfdab7bb5349c2a341bb4f3ba4c2669fe0a06f3b5dea69ed10511bdafca24ab373269ab6e85ae79d1315bd6a1b179510d58877e6afa08425ff73b581a0e67d6_1280.jpg){: .img-fluid content-image-large }
 
 ## Source Tag
 

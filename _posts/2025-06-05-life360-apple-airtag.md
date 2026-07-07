@@ -6,7 +6,7 @@ categories: [apple, airtags, life360]
 post_description: "A practical guide to using Apple AirTags with Life360 and Apple's 'Find My' app, including setup, integration tips, and workarounds for tracking personal items and family members."
 ---
 
-![Image](/assets/apple-airtags.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/apple-airtags.jpg){: .img-fluid content-image-large }
 
 # How to Use Apple AirTags with Life360 and Apple's 'Find My' App
 

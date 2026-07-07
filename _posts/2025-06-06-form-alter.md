@@ -6,7 +6,7 @@ categories: [drupal, web-development, coding]
 post_description: "\"Exploring the Versatility of 'Form Alter': A Comprehensive Guide on Customizing and Manipulating Web Forms in Drupal\" provides an in-depth understanding of the Form Alter function, its applications, and its evident power in creating dynamic and user-specific forms."
 ---
 
-![Image](/assets/g352f92af37643ec1502b5dc3452d9c3cd914bcb148b3924525a763aacc81f4a11536cfc23272baaaad3a548cc5aa4d106ae1854ef818032312b09af9dccf1500_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/g352f92af37643ec1502b5dc3452d9c3cd914bcb148b3924525a763aacc81f4a11536cfc23272baaaad3a548cc5aa4d106ae1854ef818032312b09af9dccf1500_1280.jpg){: .img-fluid content-image-large }
 
 ## Form Alter
 

@@ -6,7 +6,7 @@ categories: [web-development, programming, react]
 post_description: "Explore the concept of 'Form State' in detail, including its importance in handling user inputs and managing changes in modern web development settings, with particular focuses on different approaches and best practices."
 ---
 
-![Image](/assets/ge9b1c2b5c888814693bca577fa936a2d45f8891377bf8438e4ef519de428a976aaa7aef67da3b8da003d0cda3ec53937f567ad70462e2a115236c6351b3470e3_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/ge9b1c2b5c888814693bca577fa936a2d45f8891377bf8438e4ef519de428a976aaa7aef67da3b8da003d0cda3ec53937f567ad70462e2a115236c6351b3470e3_1280.jpg){: .img-fluid content-image-large }
 
 ## Form State
 

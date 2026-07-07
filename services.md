@@ -13,22 +13,22 @@ hero_image_alt: Services offered by Xandermar LLC
 
 At Xandermar LLC, we provide a comprehensive suite of digital solutions tailored to elevate your business. From dynamic web design to advanced development workflows, our services are designed to meet your unique needs.
 
-<section style="margin:1.5rem 0 1.25rem;padding:1.4rem 1.4rem 1.2rem;border-radius:14px;border:1px solid #bfdbfe;background:linear-gradient(135deg,#eff6ff 0%,#ffffff 52%,#eef2ff 100%);box-shadow:0 14px 34px rgba(30,58,138,0.16);position:relative;overflow:hidden;">
-	<div style="position:absolute;top:-48px;right:-42px;width:170px;height:170px;border-radius:999px;background:radial-gradient(circle,#bfdbfe 0%,rgba(191,219,254,0) 70%);"></div>
-	<p style="margin:0 0 0.6rem;position:relative;z-index:1;">
-		<span style="display:inline-block;padding:0.2rem 0.6rem;border-radius:999px;background:#1e3a8a;color:#ffffff;font-size:0.76rem;letter-spacing:0.08em;font-weight:700;text-transform:uppercase;">Featured Service</span>
+<section class="services-panel">
+	<div class="services-panel-accent"></div>
+	<p class="services-panel-badge-wrap">
+		<span class="services-panel-badge">Featured Service</span>
 	</p>
-	<h2 style="margin:0 0 0.6rem;position:relative;z-index:1;color:#0f172a;font-size:1.95rem;line-height:1.2;">AI Assistant</h2>
-	<p style="margin:0 0 0.85rem;position:relative;z-index:1;color:#1f2937;font-size:1.03rem;line-height:1.7;">Our AI Assistant helps your team stay responsive and turn more inquiries into booked appointments.</p>
-	<p style="margin:0 0 0.75rem;position:relative;z-index:1;color:#111827;line-height:1.75;">For incoming calls, the AI Assistant engages callers in a natural conversation, captures key details, and helps them book the best available appointment time without requiring your team to step in for routine scheduling tasks.</p>
-	<p style="margin:0 0 1rem;position:relative;z-index:1;color:#111827;line-height:1.75;">For voicemail follow-up, the AI Assistant proactively calls customers back, references their original request, and guides them through appointment scheduling so potential leads are not lost due to missed calls or delayed responses.</p>
-	<p style="margin:0;position:relative;z-index:1;">
-		<a href="/services/ai-assistant" style="display:inline-block;background:linear-gradient(135deg,#1d4ed8 0%,#1e40af 100%);color:#ffffff;text-decoration:none;font-weight:700;padding:0.72rem 1.1rem;border-radius:10px;border:1px solid #1e3a8a;box-shadow:0 8px 18px rgba(30,64,175,0.28);">Explore AI Assistant Service</a>
+	<h2 class="services-panel-heading">AI Assistant</h2>
+	<p class="services-panel-copy-large">Our AI Assistant helps your team stay responsive and turn more inquiries into booked appointments.</p>
+	<p class="services-panel-copy">For incoming calls, the AI Assistant engages callers in a natural conversation, captures key details, and helps them book the best available appointment time without requiring your team to step in for routine scheduling tasks.</p>
+	<p class="services-panel-copy">For voicemail follow-up, the AI Assistant proactively calls customers back, references their original request, and guides them through appointment scheduling so potential leads are not lost due to missed calls or delayed responses.</p>
+	<p class="services-panel-cta-wrap">
+		<a href="/services/ai-assistant" class="feature-panel-cta">Explore AI Assistant Service</a>
 	</p>
 </section>
 
-<div style="margin:1.25rem 0;padding:1rem 1.25rem;border:2px solid #dbeafe;border-left:6px solid #2563eb;background:#f8fbff;border-radius:8px;">
-	<strong style="display:block;margin-bottom:0.4rem;font-size:1.05rem;color:#1e3a8a;">Quick Links</strong>
+<div class="quick-links-panel">
+	<strong class="quick-links-title">Quick Links</strong>
 	<a href="#drupal-flat-rate-upgrade-service">Drupal Flat-Rate Upgrade</a> |
 	<a href="#drupal-development-and-consulting">Drupal Development and Consulting</a> |
 	<a href="#web-design-and-hosting">Web Design and Hosting</a> |
@@ -40,7 +40,7 @@ At Xandermar LLC, we provide a comprehensive suite of digital solutions tailored
 ---
 
 <a id="drupal-flat-rate-upgrade-service"></a>
-## 🔒 [Drupal Flat-Rate Upgrade Service](/services/drupal-flat-rate-upgrade-service)
+## <span class="xi-lock xi-24 xi-charcoal xi-inline" aria-hidden="true"></span>[Drupal Flat-Rate Upgrade Service](/services/drupal-flat-rate-upgrade-service)
 
 Keep your Drupal environments up-to-date and secure.
 
@@ -57,7 +57,7 @@ Pricing: $200 per environment, per month. Cancel any time. Not responsible for b
 ---
 
 <a id="drupal-development-and-consulting"></a>
-## 🧩 [Drupal Development and Consulting](/services/drupal-development-and-consulting)
+## <span class="xi-browser-gear xi-24 xi-blue xi-inline" aria-hidden="true"></span>[Drupal Development and Consulting](/services/drupal-development-and-consulting)
 
 With over two decades of hands-on experience, Xandermar LLC offers expert **Drupal development and consulting services** tailored to enterprise, government, and private-sector needs. From crafting high-performance custom modules and themes to building API-first architectures with Angular or React frontends, we specialize in scalable, secure, and future-proof solutions.
 
@@ -77,7 +77,7 @@ Trust Xandermar LLC to deliver robust solutions that grow with your organization
 ---
 
 <a id="web-design-and-hosting"></a>
-## 🎨 [Web Design and Hosting](/services/web-design-and-hosting)
+## <span class="xi-monitor-code xi-24 xi-blue xi-inline" aria-hidden="true"></span>[Web Design and Hosting](/services/web-design-and-hosting)
 
 We specialize in creating visually appealing and functional websites using Drupal or WordPress, depending on your requirements. Whether you're launching a new site or revamping an existing one, our team offers:
 
@@ -91,7 +91,7 @@ Our goal is to help you reach an unlimited customer base with a website that dri
 ---
 
 <a id="easy-signage"></a>
-## 📺 [Easy Signage](/services/easy-signage)
+## <span class="xi-monitor-code xi-24 xi-blue xi-inline" aria-hidden="true"></span>[Easy Signage](/services/easy-signage)
 
 Enhance your business's visual communication with our Easy Signage service. Ideal for restaurants, hotels, and entertainment venues, this service allows you to:
 
@@ -104,7 +104,7 @@ Pricing starts at \$149.95 per month, with an optional \$200 installation fee an
 ---
 
 <a id="youtube-video-production-services"></a>
-## 🎥 [YouTube Video Production Services](/services/youtube-video-productions-services)
+## <span class="xi-megaphone xi-24 xi-green xi-inline" aria-hidden="true"></span>[YouTube Video Production Services](/services/youtube-video-productions-services)
 
 Engage your audience with high-quality video content through our YouTube Video Production Services. We offer:
 
@@ -117,7 +117,7 @@ Our services aim to bridge the gap between your business and customers, providin
 ---
 
 <a id="continuous-integration"></a>
-## 🔄 [Continuous Integration and DevOps Services](/services/continuous-integration-and-devlops-services)
+## <span class="xi-automation xi-24 xi-blue xi-inline" aria-hidden="true"></span>[Continuous Integration and DevOps Services](/services/continuous-integration-and-devlops-services)
 
 Streamline your development process with our Continuous Integration services. We help automate workflows to ensure:
 

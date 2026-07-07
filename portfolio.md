@@ -9,19 +9,19 @@ hero_image_alt: Prior projects and work by Xandermar LLC
 
 {% include hero.md %}
 
-## 🚀 Portfolio for Xandermar LLC
+## <span class="xi-next xi-24 xi-blue xi-inline" aria-hidden="true"></span>Portfolio for Xandermar LLC
 
 **AI Architect · Drupal Expert · Scalable Web Solutions**
 
 ---
 
-### 💡 Snapshot
+### <span class="xi-chart xi-24 xi-blue xi-inline" aria-hidden="true"></span>Snapshot
 
 With over 20 years in software development, we specialize in building intelligent, scalable, and secure platforms that merge the power of **Drupal**, **Angular**, and **AI-driven analytics**. We’ve architected systems for federal agencies, Fortune 500 companies, and high-security environments using modern DevOps, cloud-native strategies, and custom APIs.
 
 ---
 
-### 🛠️ Core Specializations
+### <span class="xi-gear xi-24 xi-blue xi-inline" aria-hidden="true"></span>Core Specializations
 
 * **Drupal Module & API Development** (7/8/9/10)
 * **Headless/Decoupled Architectures** with Angular
@@ -34,7 +34,7 @@ With over 20 years in software development, we specialize in building intelligen
 
 ---
 
-### 🔧 Past Performance
+### <span class="xi-browser-gear xi-24 xi-blue xi-inline" aria-hidden="true"></span>Past Performance
 
 <!-- #### **Quantum Improvements Consulting, LLC** (2024–Present)
 
@@ -69,7 +69,7 @@ With over 20 years in software development, we specialize in building intelligen
 
 ---
 
-### 🏛️ Trusted By
+### <span class="xi-briefcase xi-24 xi-charcoal xi-inline" aria-hidden="true"></span>Trusted By
 
 * **U.S. House of Representatives**
 * **U.S. Department of Energy**
@@ -80,7 +80,7 @@ With over 20 years in software development, we specialize in building intelligen
 
 ---
 
-### 🧠 AI-Driven Workflows
+### <span class="xi-brain xi-24 xi-green xi-inline" aria-hidden="true"></span>AI-Driven Workflows
 
 * Built **prediction pipelines** that process big data (CSV, XML, JSON)
 * Deployed models to AWS and Vertex AI for use in **Drupal dashboards**
@@ -88,7 +88,7 @@ With over 20 years in software development, we specialize in building intelligen
 
 ---
 
-### 🧪 Automation & Testing
+### <span class="xi-cpu xi-24 xi-blue xi-inline" aria-hidden="true"></span>Automation & Testing
 
 * Wrote E2E test suites in **Playwright**
 * Performance benchmarking with **K6**
@@ -96,9 +96,9 @@ With over 20 years in software development, we specialize in building intelligen
 
 ---
 
-### 📈 Let's Build What’s Next
+### <span class="xi-chart xi-24 xi-green xi-inline" aria-hidden="true"></span>Let's Build What's Next
 
 If your organization demands **secure**, **data-smart**, and **scalable** web systems — let’s talk.
 
-👉 [LinkedIn](https://www.linkedin.com/company/xandermar-llc){:target="_blank"}
-👉 [GitHub](https://github.com/xandermar){:target="_blank"}
+<span class="xi-next xi-16 xi-blue xi-inline" aria-hidden="true"></span>[LinkedIn](https://www.linkedin.com/company/xandermar-llc){:target="_blank"}
+<span class="xi-next xi-16 xi-blue xi-inline" aria-hidden="true"></span>[GitHub](https://github.com/xandermar){:target="_blank"}

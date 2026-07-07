@@ -6,7 +6,7 @@ categories: [api, web-development, geolocation]
 post_description: "Explore the intricacies of integrating and leveraging the Geolocation API in web and mobile applications, understanding its capabilities, limitations, and how it contributes to enhanced user experiences by providing location-based services."
 ---
 
-![Image](/assets/gfb8b8504431697b23ffa4fdc2afad902050a944425df9b7ffa6ecbf6404fd011567491efba730983cbee38a221410541f8ce200f32868dc8ed9f74c220417e44_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/gfb8b8504431697b23ffa4fdc2afad902050a944425df9b7ffa6ecbf6404fd011567491efba730983cbee38a221410541f8ce200f32868dc8ed9f74c220417e44_1280.jpg){: .img-fluid content-image-large }
 
 ## Geolocation API
 

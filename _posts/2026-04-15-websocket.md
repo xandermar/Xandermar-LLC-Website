@@ -6,7 +6,7 @@ categories: [web-development, real-time-communication, websocket]
 post_description: "Explore the dynamic world of real-time web communication as we delve into the intricacies of Websocket, its unique capabilities, advantages over traditional methods, its role in full-duplex communication, and how it's shaping the future of web interactions."
 ---
 
-![Image](/assets/g1033ce28da3ee44a3eab49391b5dec305d4cc90dea09b108f44871eea999fc97c75e8ab43c5785e8bc02dbf64a8c5aa13200ed06f4c88279333df1adfedeba7f_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/g1033ce28da3ee44a3eab49391b5dec305d4cc90dea09b108f44871eea999fc97c75e8ab43c5785e8bc02dbf64a8c5aa13200ed06f4c88279333df1adfedeba7f_1280.jpg){: .img-fluid content-image-large }
 
 ## Websocket
 

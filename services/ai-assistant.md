@@ -8,25 +8,25 @@ nav_exclude: true
 
 {% include services.html %}
 
-<img src="/assets/images/ai-assistant.png" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai-assistant.png" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 # AI Assistant for Business Growth
 
-<section style="margin:1.25rem 0 1.5rem;padding:1.15rem 1.15rem 1.25rem;border-radius:14px;border:1px solid #93c5fd;background:linear-gradient(135deg,#eff6ff 0%,#f8fbff 55%,#ecfeff 100%);box-shadow:0 14px 28px rgba(30,64,175,0.14);position:relative;overflow:hidden;">
-	<div style="position:absolute;top:-50px;right:-40px;width:170px;height:170px;border-radius:999px;background:radial-gradient(circle,#bfdbfe 0%,rgba(191,219,254,0) 70%);"></div>
-	<p style="margin:0 0 0.45rem;position:relative;z-index:1;">
-		<span style="display:inline-block;padding:0.2rem 0.55rem;border-radius:999px;background:#1e3a8a;color:#ffffff;font-size:0.74rem;letter-spacing:0.08em;font-weight:700;text-transform:uppercase;">Start Here</span>
+<section class="services-panel">
+	<div class="services-panel-accent"></div>
+	<p class="services-panel-badge-wrap">
+		<span class="services-panel-badge">Start Here</span>
 	</p>
-	<h2 style="margin:0 0 0.55rem;position:relative;z-index:1;color:#0f172a;font-size:1.95rem;line-height:1.2;">Priority AI Services</h2>
-	<p style="margin:0 0 0.85rem;position:relative;z-index:1;color:#1f2937;line-height:1.75;">These are high-impact services for businesses that want faster response times, stronger lead flow, better follow-up, and more consistent customer communication.</p>
-	<div style="display:flex;flex-wrap:wrap;gap:0.55rem;position:relative;z-index:1;">
-		<a href="/services/ai-assistant/AI-Lead-Generation-and-Prospecting" style="display:inline-block;text-decoration:none;font-weight:700;padding:0.56rem 0.85rem;border-radius:9px;border:1px solid #2563eb;background:#ffffff;color:#1e40af;">AI lead generation and prospecting</a>
-		<a href="/services/ai-assistant/AI-Sales-Outreach-and-Follow-Up-Automation" style="display:inline-block;text-decoration:none;font-weight:700;padding:0.56rem 0.85rem;border-radius:9px;border:1px solid #2563eb;background:#ffffff;color:#1e40af;">AI sales outreach and follow-up automation</a>
-		<a href="/services/ai-assistant/AI-Website-Chatbot-Customer-Service-Assistant" style="display:inline-block;text-decoration:none;font-weight:700;padding:0.56rem 0.85rem;border-radius:9px;border:1px solid #2563eb;background:#ffffff;color:#1e40af;">AI website chatbot and customer service assistant</a>
-		<a href="/services/ai-assistant/AI-content-marketing-and-SEO-automation" style="display:inline-block;text-decoration:none;font-weight:700;padding:0.56rem 0.85rem;border-radius:9px;border:1px solid #2563eb;background:#ffffff;color:#1e40af;">AI content marketing and SEO automation</a>
-		<a href="/services/ai-assistant/AI-CRM-quoting-and-proposal-automation" style="display:inline-block;text-decoration:none;font-weight:700;padding:0.56rem 0.85rem;border-radius:9px;border:1px solid #2563eb;background:#ffffff;color:#1e40af;">AI CRM, quoting, and proposal automation</a>
+	<h2 class="services-panel-heading">Priority AI Services</h2>
+	<p class="services-panel-copy-large">These are high-impact services for businesses that want faster response times, stronger lead flow, better follow-up, and more consistent customer communication.</p>
+	<div class="services-panel-links">
+		<a href="/services/ai-assistant/AI-Lead-Generation-and-Prospecting" class="services-panel-link">AI lead generation and prospecting</a>
+		<a href="/services/ai-assistant/AI-Sales-Outreach-and-Follow-Up-Automation" class="services-panel-link">AI sales outreach and follow-up automation</a>
+		<a href="/services/ai-assistant/AI-Website-Chatbot-Customer-Service-Assistant" class="services-panel-link">AI website chatbot and customer service assistant</a>
+		<a href="/services/ai-assistant/AI-content-marketing-and-SEO-automation" class="services-panel-link">AI content marketing and SEO automation</a>
+		<a href="/services/ai-assistant/AI-CRM-quoting-and-proposal-automation" class="services-panel-link">AI CRM, quoting, and proposal automation</a>
 	</div>
-	<p style="margin:0.85rem 0 0;position:relative;z-index:1;color:#111827;line-height:1.75;">These offerings are usually the best first step because they support near-term revenue growth while improving team efficiency and customer experience.</p>
+	<p class="services-panel-copy-bottom">These offerings are usually the best first step because they support near-term revenue growth while improving team efficiency and customer experience.</p>
 </section>
 
 ---

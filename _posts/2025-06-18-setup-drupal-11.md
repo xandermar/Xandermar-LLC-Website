@@ -6,13 +6,13 @@ categories: [drupal, web-development, programming]
 post_description: "Learn how to install and configure a Drupal 11 website from scratch using Composer."
 ---
 
-![Image](/assets/images/setup-drupal-11.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/images/setup-drupal-11.jpg){: .img-fluid content-image-large }
 
 ## Setting up a **Drupal 11** website from scratch involves several steps, including preparing your environment, downloading Drupal, configuring it, and verifying that everything works. Here's a complete step-by-step guide using Composer, which is the **recommended method** for managing modern Drupal installations.
 
 ---
 
-## ✅ Prerequisites
+## <span class="xi-shield-check xi-24 xi-green xi-inline" aria-hidden="true"></span>Prerequisites
 
 Make sure you have the following installed:
 
@@ -25,7 +25,7 @@ Make sure you have the following installed:
 
 ---
 
-## 🚀 Step-by-Step Setup
+## <span class="xi-next xi-24 xi-blue xi-inline" aria-hidden="true"></span>Step-by-Step Setup
 
 ### 1. **Create a New Drupal 11 Project**
 
@@ -120,7 +120,7 @@ git commit -m "Initial Drupal 11 installation"
 
 ---
 
-## 🧪 Verify Installation
+## <span class="xi-cpu xi-24 xi-blue xi-inline" aria-hidden="true"></span>Verify Installation
 
 Check:
 
@@ -130,7 +130,7 @@ Check:
 
 ---
 
-## ✅ Optional Modules
+## <span class="xi-shield-check xi-24 xi-green xi-inline" aria-hidden="true"></span>Optional Modules
 
 You might want to install some popular contrib modules:
 

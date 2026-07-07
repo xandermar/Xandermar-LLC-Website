@@ -6,14 +6,14 @@ categories: [drupal, web-development, programming]
 post_description: "This article provides a step-by-step guide and automation script for upgrading a Drupal 10 website to Drupal 11. It covers system requirements, module compatibility checks, composer updates, database updates, and includes a Bash script to streamline the upgrade process."
 ---
 
-![Image](/assets/images/upgrade-drupal.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/images/upgrade-drupal.jpg){: .img-fluid content-image-large }
 
 
 ## Upgrading from **Drupal 10 to Drupal 11** requires several important steps to ensure compatibility and stability. Here's a **step-by-step guide** to help you upgrade smoothly.
 
 ---
 
-### ✅ 1. **Backup Your Site**
+### <span class="xi-shield-check xi-24 xi-green xi-inline" aria-hidden="true"></span>1. **Backup Your Site**
 
 Before doing anything:
 
@@ -23,7 +23,7 @@ Before doing anything:
 
 ---
 
-### ✅ 2. **Check System Requirements**
+### <span class="xi-shield-check xi-24 xi-green xi-inline" aria-hidden="true"></span>2. **Check System Requirements**
 
 Ensure your environment meets the Drupal 11 requirements:
 
@@ -33,7 +33,7 @@ Ensure your environment meets the Drupal 11 requirements:
 
 ---
 
-### ✅ 3. **Update Contributed Modules and Themes**
+### <span class="xi-shield-check xi-24 xi-green xi-inline" aria-hidden="true"></span>3. **Update Contributed Modules and Themes**
 
 Run:
 
@@ -57,7 +57,7 @@ And consult the module pages or issue queues to confirm Drupal 11 compatibility.
 
 ---
 
-### ✅ 4. **Check for Deprecated Code**
+### <span class="xi-shield-check xi-24 xi-green xi-inline" aria-hidden="true"></span>4. **Check for Deprecated Code**
 
 Use the **Upgrade Status** module:
 
@@ -77,7 +77,7 @@ vendor/bin/phpstan analyse
 
 ---
 
-### ✅ 5. **Update `composer.json` for Drupal 11**
+### <span class="xi-shield-check xi-24 xi-green xi-inline" aria-hidden="true"></span>5. **Update `composer.json` for Drupal 11**
 
 Edit your `composer.json` to allow Drupal 11:
 
@@ -97,7 +97,7 @@ composer require drupal/core-recommended:^11 drupal/core-composer-scaffold:^11 d
 
 ---
 
-### ✅ 6. **Run Database Updates**
+### <span class="xi-shield-check xi-24 xi-green xi-inline" aria-hidden="true"></span>6. **Run Database Updates**
 
 ```bash
 drush updb -y
@@ -105,7 +105,7 @@ drush updb -y
 
 ---
 
-### ✅ 7. **Export Configuration**
+### <span class="xi-shield-check xi-24 xi-green xi-inline" aria-hidden="true"></span>7. **Export Configuration**
 
 ```bash
 drush cex -y
@@ -113,7 +113,7 @@ drush cex -y
 
 ---
 
-### ✅ 8. **Clear Cache and Rebuild**
+### <span class="xi-shield-check xi-24 xi-green xi-inline" aria-hidden="true"></span>8. **Clear Cache and Rebuild**
 
 ```bash
 drush cr
@@ -121,7 +121,7 @@ drush cr
 
 ---
 
-### ✅ 9. **Test Your Site**
+### <span class="xi-shield-check xi-24 xi-green xi-inline" aria-hidden="true"></span>9. **Test Your Site**
 
 * Test all functionality
 * Review theme compatibility
@@ -129,7 +129,7 @@ drush cr
 
 ---
 
-### ✅ 10. **Commit & Deploy**
+### <span class="xi-shield-check xi-24 xi-green xi-inline" aria-hidden="true"></span>10. **Commit & Deploy**
 
 Once tested locally or in staging:
 
@@ -148,51 +148,51 @@ composer require --dev drupal/core-dev:^11
 
 ---
 
-### 🔧 `upgrade-to-drupal11.sh`
+### <span class="xi-gear xi-24 xi-blue xi-inline" aria-hidden="true"></span>`upgrade-to-drupal11.sh`
 
 ```bash
 #!/bin/bash
 
 set -e
 
-echo "=== 🧱 Backing up current site ==="
+echo "=== [xi-cloud-upload] Backing up current site ==="
 NOW=$(date +"%Y%m%d_%H%M%S")
 tar czf backup_code_$NOW.tar.gz .
 drush sql-dump --ordered-dump --gzip --result-file=db_backup_$NOW.sql.gz
 
-echo "=== 🧼 Clearing caches ==="
+echo "=== [xi-automation] Clearing caches ==="
 drush cr
 
-echo "=== 🧪 Updating contrib modules ==="
+echo "=== [xi-cpu] Updating contrib modules ==="
 composer update drupal/* --with-dependencies
 
-echo "=== 🚦 Checking for deprecated code ==="
+echo "=== [xi-target] Checking for deprecated code ==="
 composer require --dev mglaman/phpstan-drupal
 vendor/bin/phpstan analyse > phpstan-output.txt || true
 echo "Check 'phpstan-output.txt' for deprecated code issues."
 
-echo "=== ✍️ Updating composer.json to allow Drupal 11 ==="
+echo "=== [xi-file-edit] Updating composer.json to allow Drupal 11 ==="
 composer require \
   drupal/core-recommended:^11 \
   drupal/core-composer-scaffold:^11 \
   drupal/core-project-message:^11 \
   --update-with-dependencies
 
-echo "=== 📦 Running database updates ==="
+echo "=== [xi-cloud-upload] Running database updates ==="
 drush updb -y
 
-echo "=== 💾 Exporting config ==="
+echo "=== [xi-cloud-upload] Exporting config ==="
 drush cex -y
 
-echo "=== ♻️ Rebuilding cache ==="
+echo "=== [xi-automation] Rebuilding cache ==="
 drush cr
 
-echo "=== ✅ Drupal 11 upgrade script completed ==="
+echo "=== [xi-shield-check] Drupal 11 upgrade script completed ==="
 ```
 
 ---
 
-### 💡 How to Use
+### <span class="xi-chart xi-24 xi-blue xi-inline" aria-hidden="true"></span>How to Use
 
 1. Save as `upgrade-to-drupal11.sh`
 2. Make executable:
@@ -208,7 +208,7 @@ echo "=== ✅ Drupal 11 upgrade script completed ==="
 
 ---
 
-### 🔐 Notes
+### <span class="xi-lock xi-24 xi-charcoal xi-inline" aria-hidden="true"></span>Notes
 
 * This script **does not verify module compatibility**. You should run `drush pm:list` or use the **Upgrade Status** module manually to confirm.
 * Your hosting environment **must support PHP 8.2+**.

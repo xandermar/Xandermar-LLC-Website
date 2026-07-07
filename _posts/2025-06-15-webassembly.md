@@ -6,7 +6,7 @@ categories: [web-development, programming-languages, web-tech]
 post_description: "Explore the capabilities of Webassembly as we delve into its practical applications, advantages, and implementation strategies for optimized web performance and speed in this comprehensive guide."
 ---
 
-![Image](/assets/g40980ac4ba98a4baef4c606e5596e6bdde28fbd546ba38aaee96208bd2de6b8119fd01dfcf3e73447d5146f10b2f93b637960baa7fe0113b2c8c243011407b77_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/g40980ac4ba98a4baef4c606e5596e6bdde28fbd546ba38aaee96208bd2de6b8119fd01dfcf3e73447d5146f10b2f93b637960baa7fe0113b2c8c243011407b77_1280.jpg){: .img-fluid content-image-large }
 
 ## Webassembly
 

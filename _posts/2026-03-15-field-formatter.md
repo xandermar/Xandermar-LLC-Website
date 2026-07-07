@@ -6,7 +6,7 @@ categories: [drupal, web-development, coding]
 post_description: "The article explores the concept of 'Field Formatter', delving into its practical applications in data presentation and management, and providing programmers with insightful tips on making the most of this powerful tool in formatting and structifying data fields in their codes."
 ---
 
-![Image](/assets/gfa8cfb692634616d82fddde2cc72dda45e7a01a4cb199cbe81a2e8ad64d1a0823425fa5b238b5a3b2d954717eecd1a75dcd691f500697e6becd093abaec5f069_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/gfa8cfb692634616d82fddde2cc72dda45e7a01a4cb199cbe81a2e8ad64d1a0823425fa5b238b5a3b2d954717eecd1a75dcd691f500697e6becd093abaec5f069_1280.jpg){: .img-fluid content-image-large }
 
 ## Field Formatter 
 

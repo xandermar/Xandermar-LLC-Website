@@ -5,15 +5,15 @@
 layout: default
 ---
 
-<img src="/assets/splash.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/splash.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
-## 🚀 Xandermar LLC – Engineering Digital Excellence
+## <span class="xi-next xi-24 xi-blue xi-inline" aria-hidden="true"></span>Xandermar LLC - Engineering Digital Excellence
 
 **At Xandermar LLC, we don’t just build websites — we architect solutions that scale, perform, and deliver.**
 With over 25 years of experience powering complex digital ecosystems for federal agencies and private enterprises, we specialize in mission-critical development, cloud-native deployments, and intelligent automation.
 
-<div style="margin:1.25rem 0 0.6rem;padding:1rem 1.2rem;border:2px solid #dcfce7;border-left:6px solid #15803d;background:#f6fff9;border-radius:10px;">
-	<strong style="display:block;margin-bottom:0.35rem;color:#14532d;font-size:1.05rem;">New: AI Assistant for Priority AI Services</strong>
+<div class="feature-panel">
+	<strong class="feature-panel-title">New: AI Assistant for Priority AI Services</strong>
 	<ul>
 	<li>AI lead generation and prospecting</li>
 	<li>AI sales outreach and follow-up automation</li>
@@ -22,8 +22,8 @@ With over 25 years of experience powering complex digital ecosystems for federal
 	<li>AI CRM, quoting, and proposal automation</li>
 	</ul>
 	AI services that help businesses generate qualified leads, automate sales outreach and follow-up, support customers through website chatbots, improve content marketing and SEO, and streamline CRM updates, quoting, and proposal creation.
-	<p style="margin:0.7rem 0 0;">
-		<a href="/services/ai-assistant" style="display:inline-block;background:#15803d;color:#ffffff;text-decoration:none;font-weight:700;padding:0.55rem 0.9rem;border-radius:8px;">Explore AI Assistant</a>
+	<p class="feature-panel-cta-wrap">
+		<a href="/services/ai-assistant" class="feature-panel-cta">Explore AI Assistant</a>
 	</p>
 </div>
 
@@ -31,16 +31,16 @@ With over 25 years of experience powering complex digital ecosystems for federal
 
 ### Why Organizations Trust Xandermar LLC
 
-🔒 **Secure & Compliant**
+<span class="xi-lock xi-24 xi-charcoal xi-inline" aria-hidden="true"></span>**Secure & Compliant**
 From government-grade security to HIPAA and FedRAMP compliance, we build systems that meet the strictest regulatory standards.
 
-⚙️ **Enterprise-Ready Engineering**
+<span class="xi-gear xi-24 xi-blue xi-inline" aria-hidden="true"></span>**Enterprise-Ready Engineering**
 We’ve led major initiatives for the FAA, CMS, USPS OIG, DOE, and more — delivering scalable platforms on Drupal, AWS, Kubernetes, and beyond.
 
-🧠 **AI-Driven Innovation**
+<span class="xi-brain xi-24 xi-green xi-inline" aria-hidden="true"></span>**AI-Driven Innovation**
 We integrate artificial intelligence to boost user engagement, automate operations, and drive smarter decision-making.
 
-⚡ **Agile. Precise. Reliable.**
+<span class="xi-automation xi-24 xi-green xi-inline" aria-hidden="true"></span>**Agile. Precise. Reliable.**
 As a veteran-owned consultancy, we move fast, execute cleanly, and never compromise on quality.
 
 ---
@@ -49,6 +49,6 @@ As a veteran-owned consultancy, we move fast, execute cleanly, and never comprom
 
 Whether you're a government agency, large contractor, or growing startup, Xandermar LLC delivers digital solutions that move your goals forward — faster and smarter.
 
-👉 **Let’s Build Something That Lasts.**
+<span class="xi-next xi-16 xi-blue xi-inline" aria-hidden="true"></span>**Let's Build Something That Lasts.**
 
 [Contact Us](/contact-us) / [Portfolio](/portfolio)

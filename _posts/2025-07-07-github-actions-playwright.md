@@ -6,7 +6,7 @@ categories: [drupal, playwright, github]
 post_description: "Explains how to automate testing for Drupal 11 using GitHub Actions and Playwright. It covers setting up a workflow that triggers on updates to the master branch, builds a complete Drupal 11 environment with Docker, installs the site, and runs three sample Playwright end-to-end tests. This automation ensures code quality and site stability after each deployment, streamlining continuous integration for Drupal projects."
 ---
 
-![Image](/assets/images/playwright.png){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/images/playwright.png){: .img-fluid content-image-large }
 
 # Automated Drupal 11 Testing: CI/CD Superpowers with GitHub Actions & Playwright
 

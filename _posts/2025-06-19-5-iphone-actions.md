@@ -6,7 +6,7 @@ categories: [iphone, apple, tech]
 post_description: "Discover 5 hidden iPhone features that most users overlook—from using the back of your phone as a customizable button to measuring someone's height instantly."
 ---
 
-![Image](/assets/images/iphone.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/images/iphone.jpg){: .img-fluid content-image-large }
 
 ## Here are 5 awesome things your iPhone can do that most people don’t know:
 

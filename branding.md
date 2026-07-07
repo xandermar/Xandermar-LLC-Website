@@ -173,3 +173,83 @@ The transparent PNG version should be used when the logo appears over:
 | Labels | Inter | 500–600 | Clear form and interface labels |
 | Captions | Inter | 400–500 | Smaller supporting text |
 | Tables | Inter | 400–600 | Regular cells with semibold headers |
+
+---
+
+![Xandermar 2026 Icon Palette](/assets/images/icons.png){: width="800"}
+
+# Xandermar Icon Palette
+
+| Icon | CSS Class | Category | Recommended Use |
+|---|---|---|---|
+| Gear | `xi-gear` | General / UI | Settings, configuration, administration, processes |
+| Search | `xi-search` | General / UI | Search fields, content discovery, research |
+| Person | `xi-person` | General / UI | User accounts, profiles, customers, team members |
+| Cloud Upload | `xi-cloud-upload` | General / UI | File uploads, cloud deployment, backups |
+| Robot | `xi-robot` | AI & Automation | AI assistants, chatbots, automated customer service |
+| Brain | `xi-brain` | AI & Automation | Artificial intelligence, machine learning, intelligent analysis |
+| CPU | `xi-cpu` | AI & Automation | AI processing, computing, technical infrastructure |
+| Automation | `xi-automation` | AI & Automation | Workflow automation, integrations, recurring processes |
+| Code | `xi-code` | Development | Software development, source code, programming services |
+| Monitor Code | `xi-monitor-code` | Development | Web development, application development, frontend work |
+| Browser Gear | `xi-browser-gear` | Development | CMS configuration, website administration, Drupal services |
+| Terminal | `xi-terminal` | Development | Command-line tools, DevOps, scripting, server administration |
+| File Edit | `xi-file-edit` | Content & SEO | Content creation, editing, documentation, publishing |
+| Chart | `xi-chart` | Content & SEO | Analytics, reporting, SEO performance, business growth |
+| Target | `xi-target` | Content & SEO | Marketing goals, lead generation, campaign targeting |
+| People | `xi-people` | Business & CRM | Customers, teams, audiences, CRM contacts |
+| Handshake | `xi-handshake` | Business & CRM | Partnerships, consulting, agreements, client relationships |
+| Briefcase | `xi-briefcase` | Business & CRM | Business services, consulting, professional solutions |
+| Person Star | `xi-person-star` | Business & CRM | Featured clients, customer success, testimonials, account management |
+| Email | `xi-email` | Communication | Email, contact forms, newsletters, notifications |
+| Chat | `xi-chat` | Communication | Messaging, live chat, AI chatbots, conversations |
+| Phone | `xi-phone` | Communication | Telephone contact, callbacks, voice services |
+| Megaphone | `xi-megaphone` | Communication | Announcements, marketing, outreach, promotions |
+| Shield Check | `xi-shield-check` | Security & Support | Security, compliance, verified services, protection |
+| Lock | `xi-lock` | Security & Support | Privacy, authentication, secure access, protected data |
+| Support | `xi-support` | Security & Support | Help resources, service assistance, troubleshooting |
+| Headset | `xi-headset` | Security & Support | Customer support, technical support, help desk services |
+| Home | `xi-home` | General / UI | Homepage navigation, dashboard home, main landing page |
+| Menu | `xi-menu` | General / UI | Mobile navigation, collapsed menus, navigation controls |
+| Next | `xi-next` | General / UI | Continue, next page, read more, directional navigation |
+| More | `xi-more` | General / UI | Additional actions, overflow menus, secondary options |
+
+## Icon Sizes
+
+| Size | CSS Class | Recommended Use |
+|---|---|---|
+| 16px | `xi-16` | Inline text, metadata, compact navigation |
+| 24px | `xi-24` | Buttons, form fields, standard interface elements |
+| 32px | `xi-32` | Feature lists, cards, service headings |
+| 40px | `xi-40` | Section introductions, prominent feature icons |
+| 48px | `xi-48` | Hero areas, major services, marketing callouts |
+
+## Icon Colors
+
+| Color | CSS Class | Recommended Use |
+|---|---|---|
+| Black | `xi-black` | High-contrast interface elements |
+| Charcoal | `xi-charcoal` | Default neutral icons and navigation |
+| Primary Green | `xi-green` | AI, automation, communication, positive actions |
+| Dark Green | `xi-green-dark` | Hover states and high-contrast green icons |
+| Primary Blue | `xi-blue` | Development, business, links, technical services |
+| Dark Blue | `xi-blue-dark` | Hover states and high-contrast blue icons |
+| Gray | `xi-gray` | Disabled, secondary, or low-priority interface elements |
+| White | `xi-white` | Icons displayed on dark or colored backgrounds |
+
+## Usage Examples
+
+| Purpose | Recommended Classes |
+|---|---|
+| AI consulting | `xi-robot xi-32 xi-green` |
+| Drupal development | `xi-browser-gear xi-32 xi-blue` |
+| Custom development | `xi-code xi-32 xi-blue` |
+| DevOps services | `xi-terminal xi-32 xi-blue` |
+| Business consulting | `xi-briefcase xi-32 xi-blue` |
+| Lead generation | `xi-target xi-32 xi-green` |
+| Contact form | `xi-email xi-24 xi-green` |
+| Phone number | `xi-phone xi-24 xi-green` |
+| Customer support | `xi-headset xi-32 xi-charcoal` |
+| Security services | `xi-shield-check xi-32 xi-charcoal` |
+| Read more link | `xi-next xi-16 xi-blue` |
+| Mobile navigation | `xi-menu xi-24 xi-white` |

@@ -6,7 +6,7 @@ categories: [drupal, acquia, github]
 post_description: "This article provides a step-by-step guide for automating Drupal 11 deployments to Acquia Cloud using GitHub Actions. It covers how to configure your workflow to build your site, compile theme assets with Gulp, push updates to your Acquia Git repository, and automatically execute critical Drush post-deploy commands (drush cim -y, drush updb -y, and drush cr) on your Acquia environment. This streamlined process ensures your site remains up-to-date, reduces manual deployment errors, and accelerates your Drupal development workflow."
 ---
 
-![Image](/assets/images/github.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/images/github.jpg){: .img-fluid content-image-large }
 
 # Seamless Drupal 11 Deployments: Automating Your Acquia Workflow with GitHub Actions
 

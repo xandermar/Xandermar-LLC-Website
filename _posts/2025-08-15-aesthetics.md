@@ -6,7 +6,7 @@ categories: [design, visual-art, web-design]
 post_description: "Exploring the Influence of Aesthetics in Web Design: A Comprehensive Guide to Enhancing User Experience and Engagement through Visual Elements"
 ---
 
-![Image](/assets/g80cde57a135026c4b6405c37c317f8569b20a3d0bedab98541039f295b7c752958298076a242d45f0673247edf9916406969f20dfcee5315e186e832f5c418a4_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/g80cde57a135026c4b6405c37c317f8569b20a3d0bedab98541039f295b7c752958298076a242d45f0673247edf9916406969f20dfcee5315e186e832f5c418a4_1280.jpg){: .img-fluid content-image-large }
 
 ## Aesthetics in Web Development, Design and Project Management
 

@@ -6,7 +6,7 @@ categories: [apple, lando, docker]
 post_description: "Learn how to set up Lando on macOS for fast, Docker-based local development. This step-by-step guide walks you through installing Docker, configuring Lando, initializing a project (like Drupal or WordPress), and using helpful Lando commands to streamline your development workflow. Perfect for developers looking to simplify their local environments on macOS."
 ---
 
-![Image](/assets/images/lando-setup.png){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/images/lando-setup.png){: .img-fluid content-image-large }
 
 # How to Set Up Lando on macOS
 
@@ -14,7 +14,7 @@ post_description: "Learn how to set up Lando on macOS for fast, Docker-based loc
 
 ---
 
-## ✅ Prerequisites
+## <span class="xi-shield-check xi-24 xi-green xi-inline" aria-hidden="true"></span>Prerequisites
 
 Before you begin, ensure you have the following:
 
@@ -25,7 +25,7 @@ Before you begin, ensure you have the following:
 
 ---
 
-## 🔧 Step-by-Step Installation
+## <span class="xi-gear xi-24 xi-blue xi-inline" aria-hidden="true"></span>Step-by-Step Installation
 
 ### 1. Install Docker Desktop
 
@@ -44,7 +44,7 @@ Download the latest Lando installer:
 * Click the **macOS download** link and open the `.pkg` installer.
 * Follow the installation steps.
 
-> 📝 **Tip:** You can also install via Homebrew:
+> <span class="xi-file-edit xi-16 xi-blue xi-inline" aria-hidden="true"></span>**Tip:** You can also install via Homebrew:
 
 ```bash
 brew install lando
@@ -66,7 +66,7 @@ Lando version: 3.17.0
 
 ---
 
-## 🚀 Creating a New Lando Project
+## <span class="xi-next xi-24 xi-blue xi-inline" aria-hidden="true"></span>Creating a New Lando Project
 
 ### 1. Create a Project Directory
 
@@ -118,7 +118,7 @@ Visit it in your browser: http://my-lando-site.lndo.site
 
 ---
 
-## 🧪 Common Commands
+## <span class="xi-cpu xi-24 xi-blue xi-inline" aria-hidden="true"></span>Common Commands
 
 * `lando start` — Starts the app
 * `lando stop` — Stops the app
@@ -129,7 +129,7 @@ Visit it in your browser: http://my-lando-site.lndo.site
 
 ---
 
-## 🧼 Uninstalling Lando (optional)
+## <span class="xi-automation xi-24 xi-blue xi-inline" aria-hidden="true"></span>Uninstalling Lando (optional)
 
 To remove Lando:
 

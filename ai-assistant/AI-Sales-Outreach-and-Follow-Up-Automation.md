@@ -8,7 +8,7 @@ nav_exclude: true
 
 # AI Sales Outreach and Follow-Up Automation
 
-<img src="/assets/images/ai06.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai06.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 Small businesses do not lose sales because they lack opportunity. They lose sales because leads go cold, follow-ups get missed, emails are delayed, calls are forgotten, and potential customers move on to the competitor who responded faster. AI sales outreach and follow-up automation fixes that problem by turning every lead into an organized, persistent, revenue-focused sales opportunity.
 
@@ -22,7 +22,7 @@ Speed matters. When a customer requests information, pricing, service availabili
 
 ## Follow-Up That Actually Happens
 
-<img src="/assets/images/ai07.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai07.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 
 The fortune is in the follow-up, but most small businesses are terrible at it. A lead might get one response and then disappear into an inbox, spreadsheet, voicemail, or CRM that nobody checks consistently. AI follow-up automation creates structured follow-up sequences that keep contacting prospects with useful, persuasive, and timely messages. It can follow up after a quote, check in after a consultation, remind customers about unfinished decisions, re-engage older leads, and push prospects toward booking, buying, or scheduling a call.
@@ -37,7 +37,7 @@ AI sales outreach does not replace your business. It makes your business sharper
 
 ## Keep Your Team Focused on Closing
 
-<img src="/assets/images/ai08.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai08.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 Your best people should not waste hours copying notes, rewriting the same email, chasing weak leads, or manually reminding customers to respond. AI automation handles the repetitive sales work so your team can focus on serious buyers, high-value conversations, and closing deals. The result is a cleaner sales process, fewer missed opportunities, better customer communication, and more revenue from the leads you already have.
 
@@ -51,7 +51,7 @@ Sales growth is not magic. It comes from faster replies, better follow-up, stron
 
 ## Stop Chasing Leads Manually
 
-<img src="/assets/images/ai09.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+<img src="/assets/images/ai09.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 Manual sales follow-up is slow, inconsistent, and expensive. AI sales outreach and follow-up automation gives your business a system that works every day to push leads forward, revive old opportunities, and keep your pipeline active. If your business wants more growth, more booked appointments, more accepted quotes, and more closed deals, this is one of the fastest and most practical AI capabilities to put in place.
 

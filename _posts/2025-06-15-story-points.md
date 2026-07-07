@@ -6,7 +6,7 @@ categories: [agile-methodology, project-management, software-development]
 post_description: "Explore the concept of 'Story Points' in Agile project management, understanding its significance, methods of estimation, and how it contributes to effective planning and forecasting in software development processes."
 ---
 
-![Image](/assets/g8c14b36c126a32f27614617d943029383de61fa44f7516140eae1c045146734b9d00828e34001e0060b994a563e0eaeec056f554529e9ae5f23895fbbd2ede98_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/g8c14b36c126a32f27614617d943029383de61fa44f7516140eae1c045146734b9d00828e34001e0060b994a563e0eaeec056f554529e9ae5f23895fbbd2ede98_1280.jpg){: .img-fluid content-image-large }
 
 ## Story Points
 

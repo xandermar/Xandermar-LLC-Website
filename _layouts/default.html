@@ -10,6 +10,7 @@
 
     <!-- Optional: Your custom stylesheet -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/icons.css' | relative_url }}">
 
 
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
@@ -24,6 +25,8 @@
   </head>
 
   <body class="d-flex flex-column min-vh-100">
+
+    {% include header.md %}
 
     {% include navbar.html %}
 
@@ -78,7 +81,7 @@
 
     <!-- Back to Top Button -->
     <a href="#" class="btn btn-primary position-fixed bottom-0 end-0 m-4 back-to-top-button">
-      ↑ Top
+      <span class="xi-next xi-16 xi-white xi-inline xi-up" aria-hidden="true"></span> Top
     </a>
 
     <!-- Sticky Footer -->

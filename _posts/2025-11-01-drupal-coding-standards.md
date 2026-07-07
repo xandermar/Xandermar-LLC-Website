@@ -6,7 +6,7 @@ categories: [drupal, coding-standards, web-development]
 post_description: "Explore the intricacies of following Drupal coding standards, including best practices and key guidelines to improve your work in Drupal development and enhance website functionality and performance."
 ---
 
-![Image](/assets/gd866f91e81c85618665876491068e024cd19e2c77f217cfc672e369ae0bf0505d8718e7c0ff29c85fdc1b103e3ed9cf6895f1434f32551ca4ed5bfe5089b9d4a_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
+![Image](/assets/gd866f91e81c85618665876491068e024cd19e2c77f217cfc672e369ae0bf0505d8718e7c0ff29c85fdc1b103e3ed9cf6895f1434f32551ca4ed5bfe5089b9d4a_1280.jpg){: .img-fluid content-image-large }
 
 ## Drupal Coding Standards
 
