@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<img src="/assets/splash.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+<img src="/assets/splash.jpg" alt="Workspace illustration representing enterprise engineering, AI automation, and digital platform delivery" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 ## <span class="xi-next xi-24 xi-blue xi-inline" aria-hidden="true"></span>Xandermar LLC - Engineering Digital Excellence
 

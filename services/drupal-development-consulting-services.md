@@ -10,7 +10,7 @@ schema_description: Drupal development, consulting, and migration services for e
 
 {% include services.html %}
 
-<img src="/assets/images/drupal.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+<img src="/assets/images/drupal.jpg" alt="Drupal development illustration representing enterprise CMS engineering and consulting" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 # Expert Drupal Development, Consulting, and Migration Services
 

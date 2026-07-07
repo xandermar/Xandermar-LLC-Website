@@ -10,7 +10,7 @@ schema_description: AI content marketing and SEO automation services that help b
 
 # AI Content Marketing and SEO Automation
 
-<img src="/assets/images/ai16.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+<img src="/assets/images/ai16.jpg" alt="Illustration for AI content marketing and SEO automation services" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 ## Turn Your Website Into a Growth Engine
 
@@ -18,7 +18,7 @@ Most small businesses are invisible online because they do not publish enough co
 
 ## Get Found Before Your Competitors
 
-<img src="/assets/images/ai17.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+<img src="/assets/images/ai17.jpg" alt="Illustration representing AI-assisted SEO strategy and search visibility growth" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 When potential customers search for services in your area, your business needs to show up before they call someone else. AI-powered SEO helps identify the keywords, questions, services, and local search terms your customers are already using. From service pages and blog posts to location-based content and FAQs, AI can help your business build the kind of search-friendly content that brings in more traffic, more leads, and more opportunities.
 
@@ -28,7 +28,7 @@ Small businesses often know they need marketing, but they do not have the time, 
 
 ## Turn Expertise Into Revenue
 
-<img src="/assets/images/ai18.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+<img src="/assets/images/ai18.jpg" alt="Illustration representing expert knowledge turned into publishable marketing content" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 Your business already has knowledge, experience, and answers customers need. The problem is that most of that expertise stays trapped in conversations, emails, estimates, and daily work. AI content automation helps convert your knowledge into valuable online content that educates customers, builds trust, improves search visibility, and drives buying decisions. Every service you offer, every question you answer, and every problem you solve can become content that works for your business 24/7.
 
@@ -42,7 +42,7 @@ Customers want confidence before they contact a business. AI-generated content c
 
 ## Automate the Marketing Work That Usually Gets Ignored
 
-<img src="/assets/images/ai19.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+<img src="/assets/images/ai19.jpg" alt="Illustration representing automated content planning and cross-channel marketing workflows" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 Content marketing fails when it is inconsistent. AI can help automate the planning, writing, editing, repurposing, scheduling, and optimization process so marketing does not stop when business gets busy. Blog posts can become social media updates. Service pages can become email campaigns. FAQs can become search-optimized website content. One idea can become multiple pieces of marketing content that keep your business visible across channels.
 
@@ -60,7 +60,7 @@ Large companies have marketing departments, SEO teams, copywriters, and ad budge
 
 ## Convert More Visitors Into Customers
 
-<img src="/assets/images/ai20.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+<img src="/assets/images/ai20.jpg" alt="Illustration representing conversion-focused content and landing page optimization" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 Traffic alone is not enough. Your content needs to persuade people to act. AI can help create stronger calls to action, clearer service descriptions, better landing pages, more compelling offers, and customer-focused messaging that moves visitors toward contacting your business. The goal is not just more website visits. The goal is more phone calls, more quote requests, more appointments, and more sales.
 
@@ -82,7 +82,7 @@ This is not content for content’s sake. This is a practical growth system desi
 
 ## Make Your Website Work Harder
 
-<img src="/assets/images/ai21.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+<img src="/assets/images/ai21.jpg" alt="Illustration representing a website becoming a stronger lead-generation asset through AI content strategy" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 Your website should not just sit online like a digital brochure. It should explain, rank, persuade, capture leads, and help close business. AI content marketing and SEO automation gives your small business the tools to publish more, rank better, communicate clearly, and generate more income from the traffic you already have and the customers you are not reaching yet.
 

@@ -10,7 +10,7 @@ schema_description: AI Assistant services that help businesses improve lead capt
 
 {% include services.html %}
 
-<img src="/assets/images/ai-assistant.png" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+<img src="/assets/images/ai-assistant.png" alt="Illustration for AI assistant services focused on customer response, scheduling, and workflow automation" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 # AI Assistant for Business Growth
 

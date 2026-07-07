@@ -10,7 +10,7 @@ schema_description: Digital signage services for restaurants, hotels, entertainm
 
 {% include services.html %}
 
-<img src="/assets/images/signage.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+<img src="/assets/images/signage.jpg" alt="Digital signage illustration representing display management for customer-facing locations" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 # Easy Signage
 

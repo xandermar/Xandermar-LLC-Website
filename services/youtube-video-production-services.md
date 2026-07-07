@@ -10,7 +10,7 @@ schema_description: YouTube video production services that improve video editing
 
 {% include services.html %}
 
-<img src="/assets/images/youtube.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+<img src="/assets/images/youtube.jpg" alt="Video production illustration representing editing, audio polish, and YouTube content marketing" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 # YouTube Video Production Services
 

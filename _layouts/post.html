@@ -38,10 +38,12 @@
         <!-- Main Content -->
         <div class="col-lg-8">
           <main>
+            {% capture generic_post_image_alt %}alt="Image"{% endcapture %}
+            {% capture contextual_post_image_alt %}alt="Illustration for {{ page.title | escape }}"{% endcapture %}
             {% if title %}
               <h2>{{ title }}</h2>
             {% endif %}
-            {{ content }}
+            {{ content | replace: generic_post_image_alt, contextual_post_image_alt }}
 
             {% if page.categories %}
               <div class="mt-4">

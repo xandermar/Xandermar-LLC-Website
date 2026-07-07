@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio
 nav_order: 3
 hero_image: /assets/portfolio.jpg
-hero_image_alt: Prior projects and work by Xandermar LLC
+hero_image_alt: Portfolio banner representing past engineering, Drupal, AI, and enterprise delivery work
 ---
 
 {% include hero.md %}

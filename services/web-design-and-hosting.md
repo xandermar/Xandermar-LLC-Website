@@ -10,7 +10,7 @@ schema_description: Web design and hosting services focused on Drupal and WordPr
 
 {% include services.html %}
 
-<img src="/assets/images/web-design.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+<img src="/assets/images/web-design.jpg" alt="Website design illustration representing custom web development and hosting services" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
 
 # Professional Website Design & Development
 
