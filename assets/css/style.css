@@ -426,6 +426,38 @@ pre.highlight {
     height: 1200px;
 }
 
+.contact-intro {
+    background: linear-gradient(135deg, rgba(3, 134, 201, 0.08) 0%, rgba(3, 204, 9, 0.08) 100%);
+}
+
+.contact-layout {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 1.6fr 1fr;
+}
+
+.contact-primary .card-body,
+.contact-secondary .card-body {
+    position: relative;
+}
+
+.contact-consult-card {
+    background: linear-gradient(135deg, rgba(3, 204, 9, 0.14) 0%, rgba(3, 134, 201, 0.11) 100%);
+}
+
+.contact-trust-list {
+    margin: 0;
+    padding-left: 1.2rem;
+}
+
+.contact-trust-list li {
+    margin-bottom: 0.55rem;
+}
+
+.contact-trust-list li:last-child {
+    margin-bottom: 0;
+}
+
 .text-red {
     color: var(--xm-error);
 }
@@ -449,5 +481,13 @@ pre.highlight {
 @media (max-width: 991.98px) {
     .header-desktop-only {
         display: none;
+    }
+
+    .contact-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .calendly-widget {
+        height: 1000px;
     }
 }
