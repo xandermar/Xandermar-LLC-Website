@@ -3,9 +3,11 @@ layout: default
 title: Services
 permalink: /services
 nav_order: 2
+hero_image: /assets/services.jpg
+hero_image_alt: Services offered by Xandermar LLC
 ---
 
-<img src="/assets/services.jpg" alt="Xandermar LLC hero banner showing a modern workspace with a sleek digital design theme, conveying a confident and professional tone" width="1200" height="500" style="width:100%;height:350px;object-fit:cover;display:block;" loading="lazy" decoding="async" />
+{% include hero.md %}
 
 # Our Services
 

@@ -61,3 +61,9 @@ collections:
   category_pages:
     output: true
     permalink: /category/:name/
+
+hero_defaults:
+  width: 1200
+  height: 500
+  loading: lazy
+  decoding: async

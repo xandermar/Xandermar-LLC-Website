@@ -4,3 +4,22 @@ pre.highlight {
     background: #efefef;
     padding: 1rem;
 }
+
+.page-hero-image {
+    display: block;
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.article-search-hidden {
+    display: none !important;
+}
+
+#articleSearchEmpty {
+    display: none;
+}
+
+.back-to-top-button {
+    z-index: 1030;
+}

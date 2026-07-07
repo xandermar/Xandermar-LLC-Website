@@ -1,0 +1,2 @@
+![{{ page.hero_image_alt }}]({{ page.hero_image }}){: .page-hero-image width="{{ site.hero_defaults.width }}" height="{{
+site.hero_defaults.height }}" loading="{{ site.hero_defaults.loading }}" decoding="{{ site.hero_defaults.decoding }}" }

@@ -7,7 +7,7 @@ hero_image: /assets/about-header.png
 hero_image_alt: About Xandermar and our beginnings
 ---
 
-![{{ page.hero_image_alt }}]({{ page.hero_image }}){: .img-fluid }
+{% include hero.md %}
 
 ### And So It Began…
 
