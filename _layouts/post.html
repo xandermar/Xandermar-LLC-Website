@@ -17,7 +17,12 @@
 
     <!-- Optional: Your custom stylesheet -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/icons.css' | relative_url }}">
+    <link rel="preload" href="{{ '/assets/css/icons.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="{{ '/assets/css/icons.css' | relative_url }}"></noscript>
+
+    {% if page.url == '/' %}
+    <link rel="preload" as="image" href="{{ '/assets/optimized/splash-1200.webp' | relative_url }}" imagesrcset="{{ '/assets/optimized/splash-768.webp' | relative_url }} 768w, {{ '/assets/optimized/splash-1200.webp' | relative_url }} 1200w, {{ '/assets/optimized/splash-1600.webp' | relative_url }} 1600w" imagesizes="(min-width: 1200px) 1200px, 100vw" fetchpriority="high" type="image/webp">
+    {% endif %}
 
 
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
@@ -104,6 +109,9 @@
     {% endif %}
 
       <script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>
+      {% if page.url == '/articles' or page.url == '/articles/' %}
+      <script src="{{ '/assets/js/articles-search.js' | relative_url }}" defer></script>
+      {% endif %}
 
   </body>
 </html>

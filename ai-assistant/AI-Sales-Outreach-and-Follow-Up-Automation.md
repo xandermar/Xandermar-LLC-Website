@@ -24,7 +24,7 @@ Speed matters. When a customer requests information, pricing, service availabili
 
 ## Follow-Up That Actually Happens
 
-<img src="/assets/images/ai07.jpg" alt="Illustration representing fast response workflows for new inbound leads" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+{% include responsive-picture.html src="/assets/images/ai07.jpg" alt="Illustration representing fast response workflows for new inbound leads" class="hero-image-full" width="1200" height="500" loading="lazy" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
 
 The fortune is in the follow-up, but most small businesses are terrible at it. A lead might get one response and then disappear into an inbox, spreadsheet, voicemail, or CRM that nobody checks consistently. AI follow-up automation creates structured follow-up sequences that keep contacting prospects with useful, persuasive, and timely messages. It can follow up after a quote, check in after a consultation, remind customers about unfinished decisions, re-engage older leads, and push prospects toward booking, buying, or scheduling a call.
@@ -39,7 +39,7 @@ AI sales outreach does not replace your business. It makes your business sharper
 
 ## Keep Your Team Focused on Closing
 
-<img src="/assets/images/ai08.jpg" alt="Illustration representing sales-team efficiency through automated outreach support" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+{% include responsive-picture.html src="/assets/images/ai08.jpg" alt="Illustration representing sales-team efficiency through automated outreach support" class="hero-image-full" width="1200" height="500" loading="lazy" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
 Your best people should not waste hours copying notes, rewriting the same email, chasing weak leads, or manually reminding customers to respond. AI automation handles the repetitive sales work so your team can focus on serious buyers, high-value conversations, and closing deals. The result is a cleaner sales process, fewer missed opportunities, better customer communication, and more revenue from the leads you already have.
 
@@ -53,7 +53,7 @@ Sales growth is not magic. It comes from faster replies, better follow-up, stron
 
 ## Stop Chasing Leads Manually
 
-<img src="/assets/images/ai09.jpg" alt="Illustration representing persistent follow-up and revenue recovery automation" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+{% include responsive-picture.html src="/assets/images/ai09.jpg" alt="Illustration representing persistent follow-up and revenue recovery automation" class="hero-image-full" width="1200" height="500" loading="lazy" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
 Manual sales follow-up is slow, inconsistent, and expensive. AI sales outreach and follow-up automation gives your business a system that works every day to push leads forward, revive old opportunities, and keep your pipeline active. If your business wants more growth, more booked appointments, more accepted quotes, and more closed deals, this is one of the fastest and most practical AI capabilities to put in place.
 

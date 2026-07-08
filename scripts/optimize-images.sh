@@ -19,6 +19,7 @@ DEFAULT_IMAGES=(
   "assets/services.jpg"
   "assets/images/contact.png"
   "assets/images/ai-assistant.png"
+  "assets/images/logo-with-text.png"
   "assets/images/devops.jpg"
   "assets/images/drupal.jpg"
   "assets/images/web-design.jpg"
