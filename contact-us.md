@@ -6,6 +6,7 @@ nav_order: 4
 calendy_id: xandermarllc
 hero_image: /assets/images/contact.png
 hero_image_alt: Contact page banner for scheduling consultations and project inquiries with Xandermar LLC
+hero_image_class: page-hero-image-contact
 faqs:
   - question: How quickly do you respond to new inquiries?
     answer: We typically respond to new inquiries within one business day with practical next steps or a request for any missing details.
