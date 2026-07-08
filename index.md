@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<img src="/assets/splash.jpg" alt="Workspace illustration representing enterprise engineering, AI automation, and digital platform delivery" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+{% include responsive-picture.html src="/assets/splash.jpg" alt="Workspace illustration representing enterprise engineering, AI automation, and digital platform delivery" class="hero-image-full" width="1200" height="500" loading="eager" fetchpriority="high" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
 ## <span class="xi-next xi-24 xi-blue xi-inline" aria-hidden="true"></span>Xandermar LLC - Engineering Digital Excellence
 

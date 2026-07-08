@@ -78,5 +78,9 @@ collections:
 hero_defaults:
   width: 1200
   height: 500
-  loading: lazy
+  loading: eager
   decoding: async
+
+responsive_image_defaults:
+  widths: "768,1200,1600"
+  sizes: "(min-width: 1200px) 1200px, 100vw"

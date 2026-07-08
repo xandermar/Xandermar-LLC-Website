@@ -10,7 +10,7 @@ schema_description: AI website chatbot and customer service assistant solutions 
 
 # AI Website Chatbot / Customer Service Assistant
 
-<img src="/assets/images/ai10.jpg" alt="Illustration for AI website chatbot and customer service assistant solutions" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+{% include responsive-picture.html src="/assets/images/ai10.jpg" alt="Illustration for AI website chatbot and customer service assistant solutions" class="hero-image-full" width="1200" height="500" loading="eager" fetchpriority="high" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
 ## Turn Your Website Into a 24/7 Sales and Support Machine
 

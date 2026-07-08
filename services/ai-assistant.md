@@ -10,7 +10,7 @@ schema_description: AI Assistant services that help businesses improve lead capt
 
 {% include services.html %}
 
-<img src="/assets/images/ai-assistant.png" alt="Illustration for AI assistant services focused on customer response, scheduling, and workflow automation" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+{% include responsive-picture.html src="/assets/images/ai-assistant.png" alt="Illustration for AI assistant services focused on customer response, scheduling, and workflow automation" class="hero-image-full" width="1200" height="500" loading="eager" fetchpriority="high" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
 # AI Assistant for Business Growth
 

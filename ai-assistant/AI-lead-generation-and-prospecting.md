@@ -10,7 +10,7 @@ schema_description: AI lead generation and prospecting services that help busine
 
 # AI Lead Generation and Prospecting for Small Businesses
 
-<img src="/assets/images/ai01.jpg" alt="Illustration for AI lead generation and prospecting services" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+{% include responsive-picture.html src="/assets/images/ai01.jpg" alt="Illustration for AI lead generation and prospecting services" class="hero-image-full" width="1200" height="500" loading="eager" fetchpriority="high" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
 ## Stop Waiting for Customers to Find You
 

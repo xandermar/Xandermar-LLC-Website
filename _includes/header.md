@@ -5,6 +5,11 @@
         <img
           src="/assets/images/logo-with-text.png"
           alt="Xandermar Logo"
+          width="2172"
+          height="724"
+          loading="eager"
+          fetchpriority="high"
+          decoding="async"
           class="img-fluid"
         >
       </a>

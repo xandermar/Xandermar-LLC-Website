@@ -10,7 +10,7 @@ schema_description: Drupal development, consulting, and migration services for e
 
 {% include services.html %}
 
-<img src="/assets/images/drupal.jpg" alt="Drupal development illustration representing enterprise CMS engineering and consulting" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+{% include responsive-picture.html src="/assets/images/drupal.jpg" alt="Drupal development illustration representing enterprise CMS engineering and consulting" class="hero-image-full" width="1200" height="500" loading="eager" fetchpriority="high" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
 # Expert Drupal Development, Consulting, and Migration Services
 

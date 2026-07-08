@@ -10,7 +10,7 @@ schema_description: Continuous integration and DevOps consulting that improves b
 
 {% include services.html %}
 
-<img src="/assets/images/devops.jpg" alt="DevOps illustration representing CI/CD pipelines, release automation, and engineering workflow reliability" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+{% include responsive-picture.html src="/assets/images/devops.jpg" alt="DevOps illustration representing CI/CD pipelines, release automation, and engineering workflow reliability" class="hero-image-full" width="1200" height="500" loading="eager" fetchpriority="high" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
 # Continuous Integration and DevOps Services
 

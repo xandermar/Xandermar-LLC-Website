@@ -1,0 +1,48 @@
+{% assign image_src = include.src %}
+{% assign image_alt = include.alt | default: '' %}
+{% assign image_class = include.class %}
+{% assign image_sizes = include.sizes | default: site.responsive_image_defaults.sizes | default: '100vw' %}
+{% assign image_width = include.width | default: '' %}
+{% assign image_height = include.height | default: '' %}
+{% assign image_loading = include.loading | default: 'lazy' %}
+{% assign image_decoding = include.decoding | default: 'async' %}
+{% assign image_fetchpriority = include.fetchpriority | default: 'auto' %}
+{% assign widths_csv = include.widths | default: site.responsive_image_defaults.widths | default: '768,1200,1600' %}
+{% assign widths = widths_csv | split: ',' %}
+{% assign fallback_width = widths | last | strip %}
+
+{% assign image_filename = image_src | split: '/' | last %}
+{% assign image_ext = image_filename | split: '.' | last %}
+{% assign image_stem = image_filename | split: '.' | first %}
+{% assign image_dir = image_src | remove: image_filename %}
+{% assign optimized_base = image_dir | append: 'optimized/' | append: image_stem %}
+
+{% capture webp_srcset %}
+{% for item in widths %}
+{% assign item_width = item | strip %}
+{{ optimized_base | relative_url }}-{{ item_width }}.webp {{ item_width }}w{% unless forloop.last %}, {% endunless %}
+{% endfor %}
+{% endcapture %}
+
+{% capture fallback_srcset %}
+{% for item in widths %}
+{% assign item_width = item | strip %}
+{{ optimized_base | relative_url }}-{{ item_width }}.{{ image_ext }} {{ item_width }}w{% unless forloop.last %}, {% endunless %}
+{% endfor %}
+{% endcapture %}
+
+<picture>
+  <source type="image/webp" srcset="{{ webp_srcset | strip }}" sizes="{{ image_sizes }}">
+  <img
+    src="{{ optimized_base | relative_url }}-{{ fallback_width }}.{{ image_ext }}"
+    srcset="{{ fallback_srcset | strip }}"
+    sizes="{{ image_sizes }}"
+    alt="{{ image_alt | escape }}"
+    {% if image_class %}class="{{ image_class }}"{% endif %}
+    {% if image_width != '' %}width="{{ image_width }}"{% endif %}
+    {% if image_height != '' %}height="{{ image_height }}"{% endif %}
+    loading="{{ image_loading }}"
+    decoding="{{ image_decoding }}"
+    fetchpriority="{{ image_fetchpriority }}"
+  >
+</picture>

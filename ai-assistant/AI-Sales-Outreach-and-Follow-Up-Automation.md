@@ -10,7 +10,7 @@ schema_description: AI sales outreach and follow-up automation that helps busine
 
 # AI Sales Outreach and Follow-Up Automation
 
-<img src="/assets/images/ai06.jpg" alt="Illustration for AI sales outreach and follow-up automation" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+{% include responsive-picture.html src="/assets/images/ai06.jpg" alt="Illustration for AI sales outreach and follow-up automation" class="hero-image-full" width="1200" height="500" loading="eager" fetchpriority="high" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
 Small businesses do not lose sales because they lack opportunity. They lose sales because leads go cold, follow-ups get missed, emails are delayed, calls are forgotten, and potential customers move on to the competitor who responded faster. AI sales outreach and follow-up automation fixes that problem by turning every lead into an organized, persistent, revenue-focused sales opportunity.
 

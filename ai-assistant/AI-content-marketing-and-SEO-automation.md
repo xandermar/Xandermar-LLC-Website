@@ -10,7 +10,7 @@ schema_description: AI content marketing and SEO automation services that help b
 
 # AI Content Marketing and SEO Automation
 
-<img src="/assets/images/ai16.jpg" alt="Illustration for AI content marketing and SEO automation services" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+{% include responsive-picture.html src="/assets/images/ai16.jpg" alt="Illustration for AI content marketing and SEO automation services" class="hero-image-full" width="1200" height="500" loading="eager" fetchpriority="high" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
 ## Turn Your Website Into a Growth Engine
 

@@ -10,7 +10,7 @@ schema_description: YouTube video production services that improve video editing
 
 {% include services.html %}
 
-<img src="/assets/images/youtube.jpg" alt="Video production illustration representing editing, audio polish, and YouTube content marketing" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+{% include responsive-picture.html src="/assets/images/youtube.jpg" alt="Video production illustration representing editing, audio polish, and YouTube content marketing" class="hero-image-full" width="1200" height="500" loading="eager" fetchpriority="high" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
 # YouTube Video Production Services
 

@@ -10,7 +10,7 @@ schema_description: Digital signage services for restaurants, hotels, entertainm
 
 {% include services.html %}
 
-<img src="/assets/images/signage.jpg" alt="Digital signage illustration representing display management for customer-facing locations" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+{% include responsive-picture.html src="/assets/images/signage.jpg" alt="Digital signage illustration representing display management for customer-facing locations" class="hero-image-full" width="1200" height="500" loading="eager" fetchpriority="high" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
 # Easy Signage
 

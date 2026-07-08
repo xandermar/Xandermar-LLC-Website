@@ -10,7 +10,7 @@ schema_description: AI CRM, quoting, and proposal automation that helps business
 
 # AI CRM, Quoting, and Proposal Automation
 
-<img src="/assets/images/ai22.jpg" alt="Illustration for AI CRM, quoting, and proposal automation services" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+{% include responsive-picture.html src="/assets/images/ai22.jpg" alt="Illustration for AI CRM, quoting, and proposal automation services" class="hero-image-full" width="1200" height="500" loading="eager" fetchpriority="high" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
 Small businesses lose money every day because leads are forgotten, follow-ups are delayed, quotes take too long, and proposals sit unfinished while competitors move faster. AI CRM, quoting, and proposal automation gives your business a sharper, faster, more organized sales operation that helps turn interest into revenue before the opportunity goes cold. Instead of relying on scattered notes, inbox reminders, spreadsheets, and manual quote documents, AI helps centralize your customer pipeline, automate routine sales work, and push every lead toward the next step.
 

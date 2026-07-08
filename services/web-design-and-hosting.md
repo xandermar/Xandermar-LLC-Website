@@ -10,7 +10,7 @@ schema_description: Web design and hosting services focused on Drupal and WordPr
 
 {% include services.html %}
 
-<img src="/assets/images/web-design.jpg" alt="Website design illustration representing custom web development and hosting services" width="1200" height="500" class="hero-image-full" loading="lazy" decoding="async" />
+{% include responsive-picture.html src="/assets/images/web-design.jpg" alt="Website design illustration representing custom web development and hosting services" class="hero-image-full" width="1200" height="500" loading="eager" fetchpriority="high" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
 # Professional Website Design & Development
 
