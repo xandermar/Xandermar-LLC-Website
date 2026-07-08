@@ -9,7 +9,7 @@ categories: [Artificial Intelligence,Lead Generation,Business Growth]
 tags: [AI lead generation,AI prospecting,sales automation,marketing automation,small business AI,business growth]
 permalink: /services/ai-lead-generation-for-business
 hero_image: /assets/images/post--ai-leadgen.png
-hero_image_alt: Portfolio banner representing past engineering, Drupal, AI, and enterprise delivery work
+hero_image_alt: "Discover how Xandermar LLC uses AI lead generation, prospecting, automated outreach, and follow-up systems to help businesses attract qualified prospects and convert more opportunities into revenue."
 ---
 
 {% include hero.md %}
