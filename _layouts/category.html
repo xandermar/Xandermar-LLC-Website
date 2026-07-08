@@ -2,10 +2,28 @@
 layout: default
 ---
 
+{% assign cat = page.category | downcase %}
+{% assign category_posts = site.categories[cat] %}
+
 <h1>Post Category: {{ page.category }}</h1>
-<ul>
-  {% assign cat = page.category | downcase %}
-  {% for post in site.categories[cat] %}
-    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+<p>Explore practical articles tagged with {{ page.category }}. Each post is written to help teams implement modern web engineering, automation, and delivery best practices.</p>
+
+{% if category_posts and category_posts.size > 0 %}
+<ul class="list-group mb-4">
+  {% for post in category_posts %}
+    <li class="list-group-item">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <small class="d-block text-muted">{{ post.date | date: "%B %d, %Y" }}</small>
+    </li>
   {% endfor %}
 </ul>
+{% else %}
+<p>No posts are currently published in this category.</p>
+{% endif %}
+
+<div class="quick-links-panel">
+  <strong class="quick-links-title">Related Pages</strong>
+  <a href="/articles">All Articles</a> |
+  <a href="/categories">All Categories</a> |
+  <a href="/services/ai-assistant">AI Assistant Services</a>
+</div>

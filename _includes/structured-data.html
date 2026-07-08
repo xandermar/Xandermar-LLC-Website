@@ -4,6 +4,7 @@
 {% assign page_description = page.schema_description | default: page.description | default: site.description %}
 {% assign site_logo_url = site.schema_logo | absolute_url %}
 {% assign site_image_url = site.schema_image | absolute_url %}
+{% assign page_image_url = page.hero_image | default: site.schema_image | absolute_url %}
 
 <script type="application/ld+json">
 {
@@ -109,6 +110,43 @@
 }
 </script>
 {% endunless %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ page_name | jsonify }},
+  "url": {{ page_url | jsonify }},
+  "description": {{ page_description | jsonify }},
+  "isPartOf": {
+    "@id": "{{ business_url }}#organization"
+  }
+}
+</script>
+
+{% if page.date %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page_name | jsonify }},
+  "description": {{ page_description | jsonify }},
+  "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+  "dateModified": {{ page.last_modified_at | default: page.date | date_to_xmlschema | jsonify }},
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ page_url | jsonify }}
+  },
+  "image": {{ page_image_url | jsonify }},
+  "author": {
+    "@id": "{{ business_url }}#organization"
+  },
+  "publisher": {
+    "@id": "{{ business_url }}#organization"
+  }
+}
+</script>
+{% endif %}
 
 {% if page.schema_type == 'Service' %}
 <script type="application/ld+json">

@@ -52,3 +52,26 @@ Whether you're a government agency, large contractor, or growing startup, Xander
 <span class="xi-next xi-16 xi-blue xi-inline" aria-hidden="true"></span>**Let's Build Something That Lasts.**
 
 [Contact Us](/contact-us) / [Portfolio](/portfolio)
+
+---
+
+### Client Results Snapshot
+
+<div class="feature-panel">
+	<strong class="feature-panel-title">Trusted By Complex Organizations</strong>
+	<p>Our portfolio includes enterprise and public-sector delivery for agencies and teams where reliability, security, and scale are non-negotiable.</p>
+	<p class="mb-2"><strong>Examples:</strong> FAA, CMS, USPS OIG, DOE, and major consulting partners.</p>
+	<p class="feature-panel-cta-wrap">
+		<a href="/portfolio" class="feature-panel-cta">View Case Studies and Portfolio Highlights</a>
+	</p>
+</div>
+
+<div class="services-panel">
+	<div class="services-panel-accent"></div>
+	<p class="services-panel-badge-wrap"><span class="services-panel-badge">Delaware Focus</span></p>
+	<h2 class="services-panel-heading">Delaware AI Consulting</h2>
+	<p class="services-panel-copy-large">Need local-first support? We offer Delaware-focused AI strategy, workflow automation, and implementation planning.</p>
+	<p class="services-panel-cta-wrap">
+		<a href="/delaware-ai-consulting" class="feature-panel-cta">Explore Delaware AI Consulting</a>
+	</p>
+</div>

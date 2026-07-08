@@ -20,7 +20,15 @@
     <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
+    {% if page.layout == 'category' %}
+      {% assign category_key = page.category | downcase %}
+      {% assign category_posts = site.categories[category_key] %}
+      {% if category_posts and category_posts.size < 2 %}
+    <meta name="robots" content="noindex,follow">
+      {% endif %}
+    {% endif %}
     {% include google_analytics.html %}
+    {% include structured-data.html %}
 
   </head>
 

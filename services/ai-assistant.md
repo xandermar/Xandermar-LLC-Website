@@ -329,6 +329,13 @@ Good governance helps businesses benefit from AI while reducing risk, protecting
 	</p>
 </section>
 
+<div class="quick-links-panel">
+	<strong class="quick-links-title">Related Technical Articles</strong>
+	<a href="/drupal/playwright/github/2025/07/07/github-actions-playwright.html">Playwright in GitHub Actions</a> |
+	<a href="/drupal/acquia/github/2025/07/02/acquia-drupal-github-actionscript.html">Acquia Drupal GitHub Automation</a> |
+	<a href="/articles">Browse All Technical Articles</a>
+</div>
+
 ## Custom AI Solutions
 
 Custom AI solutions are built around a specific business, industry, process, customer base, or operational need.
