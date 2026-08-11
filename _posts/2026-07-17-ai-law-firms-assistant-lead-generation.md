@@ -13,8 +13,6 @@ hero_image_alt: "Learn how Xandermar LLC helps law firms use AI assistants and l
 
 {% include hero.md %}
 
-# How Law Firms Can Benefit With AI Assistant and Lead Generation
-
 Artificial intelligence should do more for a law firm than draft generic content or add another chatbot to the website.
 
 It should help the firm attract qualified prospects, respond while potential clients are still ready to talk, organize intake information, follow up consistently, and free attorneys and staff to focus on legal work.
