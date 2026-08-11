@@ -1,16 +1,18 @@
 ---
 title: "How Mid-Atlantic Businesses Can Get More Customers Using AI"
 description: "Learn how businesses across Delaware, Maryland, Pennsylvania, New Jersey, Virginia, West Virginia, and Washington, DC are using artificial intelligence to attract more customers, automate marketing, improve customer service, and grow revenue."
-date: 2026-07-14
+date: 2026-09-14
 author: "Xandermar LLC"
 categories: [Artificial Intelligence,Small Business,Marketing,Business Growth]
 tags: [AI,Artificial Intelligence,Small Business,Customer Acquisition,Marketing Automation,SEO,Delaware,Maryland,Pennsylvania,New Jersey,Virginia,West Virginia,Washington DC,Mid Atlantic]
 image: /assets/images/articles/mid-atlantic-ai-business-growth.webp
 image_alt: "Small business owner using AI to attract more customers"
 permalink: /articles/how-mid-atlantic-businesses-can-get-more-customers-using-ai/
+hero_image: /assets/images/post--ai-law-firms.png
+hero_image_alt: "Learn how Xandermar LLC helps law firms use AI assistants and lead generation to capture more potential clients, respond faster, improve follow-up, reduce administrative work, and convert more inquiries into retained matters."
 ---
 
-# How Mid-Atlantic Businesses Can Get More Customers Using AI
+{% include hero.md %}
 
 Artificial intelligence has rapidly evolved from an emerging technology into one of the most practical tools available to small businesses. Companies throughout Delaware, Maryland, Pennsylvania, New Jersey, Virginia, West Virginia, and Washington, DC are discovering that AI helps them compete with much larger organizations without hiring additional employees or dramatically increasing operating costs.
 
