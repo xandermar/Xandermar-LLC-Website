@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Form Alter"
+seo_index: false
 date: 2025-06-06
 categories: [drupal, web-development, coding]
 post_description: "\"Exploring the Versatility of 'Form Alter': A Comprehensive Guide on Customizing and Manipulating Web Forms in Drupal\" provides an in-depth understanding of the Form Alter function, its applications, and its evident power in creating dynamic and user-specific forms."

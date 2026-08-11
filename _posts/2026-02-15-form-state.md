@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Form State"
+seo_index: false
 date: 2026-02-15
 categories: [web-development, programming, react]
 post_description: "Explore the concept of 'Form State' in detail, including its importance in handling user inputs and managing changes in modern web development settings, with particular focuses on different approaches and best practices."

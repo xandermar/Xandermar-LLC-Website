@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Field Formatter"
+seo_index: false
 date: 2026-03-15
 categories: [drupal, web-development, coding]
 post_description: "The article explores the concept of 'Field Formatter', delving into its practical applications in data presentation and management, and providing programmers with insightful tips on making the most of this powerful tool in formatting and structifying data fields in their codes."

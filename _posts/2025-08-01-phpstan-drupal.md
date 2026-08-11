@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Phpstan-drupal"
+seo_index: false
 date: 2025-08-01
 categories: [phpstan, drupal, web-development]
 post_description: "Explore the intricacies of integrating and leveraging Phpstan-drupal in your projects, a tool designed to catch bugs in your PHP code before they become evident in production."

@@ -46,3 +46,7 @@
 <meta name="twitter:title" content="{{ seo_title | escape }}">
 <meta name="twitter:description" content="{{ seo_description | escape }}">
 <meta name="twitter:image" content="{{ seo_image }}">
+
+{% if page.seo_index == false %}
+<meta name="robots" content="noindex,follow">
+{% endif %}

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Responsive Design"
+seo_index: false
 date: 2025-05-13
 categories: [web-design, responsive-design, frontend-dev]
 post_description: "Covers the principles of responsive web design, including flexible layouts, Drupal's mobile-first features, and strategies for optimal user experience."

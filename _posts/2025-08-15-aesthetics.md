@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Aesthetics"
+seo_index: false
 date: 2025-08-15
 categories: [design, visual-art, web-design]
 post_description: "Exploring the Influence of Aesthetics in Web Design: A Comprehensive Guide to Enhancing User Experience and Engagement through Visual Elements"

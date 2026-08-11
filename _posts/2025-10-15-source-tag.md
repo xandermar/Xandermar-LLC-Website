@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Source Tag"
+seo_index: false
 date: 2025-10-15
 categories: [web-development, html, coding-practices]
 post_description: "This article delves into the concept of 'Source Tag', shedding light on its function, implementation in various coding platforms and its crucial role in enhancing search engine optimization for technical blog posts."

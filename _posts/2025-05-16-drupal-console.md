@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Drupal Console"
+seo_index: false
 date: 2025-05-16
 categories: [drupal, web-development, cms-tools]
 post_description: "A summary of Drupal Console, its command-line tools for generating code, debugging, and managing Drupal sites efficiently."

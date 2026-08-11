@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Conversion Rate"
+seo_index: false
 date: 2025-05-27
 categories: [digital-marketing, ecommerce, web-analytics]
 post_description: "An overview of conversion rate in web development, design, and project management, with tips for optimizing user actions and leveraging Drupal tools."

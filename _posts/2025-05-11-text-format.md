@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Text Format"
+seo_index: false
 date: 2025-05-11
 categories: [programming, web-development, text-format]
 post_description: "An overview of essential text formatting techniques in web development, covering HTML tags, CSS styling, and responsive design to enhance user experience and content readability."

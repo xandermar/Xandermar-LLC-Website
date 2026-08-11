@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Websocket"
+seo_index: false
 date: 2026-04-15
 categories: [web-development, real-time-communication, websocket]
 post_description: "Explore the dynamic world of real-time web communication as we delve into the intricacies of Websocket, its unique capabilities, advantages over traditional methods, its role in full-duplex communication, and how it's shaping the future of web interactions."
