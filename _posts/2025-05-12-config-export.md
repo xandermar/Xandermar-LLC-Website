@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Config Export"
+seo_index: false
 date: 2025-05-12
 categories: [web-development, coding, jekyll]
 post_description: "Explains the benefits of configuration export in web development, focusing on consistency, design uniformity, and streamlined project management."

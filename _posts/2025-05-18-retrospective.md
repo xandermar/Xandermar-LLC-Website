@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Retrospective"
+seo_index: false
 date: 2025-05-18
 categories: [project-management, agile-methodology, teamwork]
 post_description: "Explores the value of retrospectives in software development, highlighting their role in continuous improvement, team learning, and agile practices."

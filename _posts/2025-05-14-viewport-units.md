@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Viewport Units"
+seo_index: false
 date: 2025-05-14
 categories: [css, web-design, responsive-design]
 post_description: "An introduction to CSS viewport units (vh, vw, vmin, vmax), their role in responsive design, and tips for creating scalable layouts."

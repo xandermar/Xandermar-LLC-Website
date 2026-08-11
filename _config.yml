@@ -36,12 +36,34 @@ url: "https://www.xandermar.com" # preferred canonical host (www)
 twitter_username: xandermar
 github_username:  xandermar
 phone: "+1-302-328-8855"
-schema_logo: "/assets/images/logo2026.png"
+schema_logo: "/assets/images/logo2026-schema.png"
+schema_logo_width: 512
+schema_logo_height: 512
 schema_image: "/assets/splash.jpg"
 og_image: "/assets/splash.jpg"
 address_locality: "Milton"
 address_region: "DE"
 address_country: "US"
+postal_code: "19968"
+geo_latitude: 38.7776
+geo_longitude: -75.3102
+price_range: "$$"
+opening_hours:
+  - days:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+    opens: "09:00"
+    closes: "17:00"
+knows_about:
+  - Drupal
+  - Artificial intelligence
+  - Web development
+  - DevOps
+  - Cloud computing
+  - Government digital services
 area_served:
   - "Delaware"
   - "United States"

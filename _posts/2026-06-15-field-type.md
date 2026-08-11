@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Field Type"
+seo_index: false
 date: 2026-06-15
 categories: [web-tech, programming, database-management]
 post_description: "Explore the significance of the 'Field Type' concept in database systems, and understand its implications in data storage, retrieval, and manipulation in a diverse range of technical applications."

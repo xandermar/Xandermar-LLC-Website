@@ -174,6 +174,7 @@ title: "$CAPITALIZED_TERM"
 date: $DATE
 categories: [${CATEGORIES}]
 post_description: "$POST_DESCRIPTION"
+seo_index: false
 ---
 
 $IMAGE_LINE

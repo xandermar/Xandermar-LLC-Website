@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Source Tag"
+seo_index: false
 date: 2025-07-15
 categories: [html, web-development, coding]
 post_description: "Exploring the role and utility of the 'Source Tag' in HTML, this article delves into its applications, proper usage, and common errors, a must-read for web developers and website designers."

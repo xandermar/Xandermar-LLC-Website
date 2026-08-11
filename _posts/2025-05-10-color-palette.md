@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Color Palette"
+seo_index: false
 date: 2025-05-10
 categories: [design, web-development, graphic-design]
 post_description: "Explore the power of color in this technical blog post, as we delve into the science behind color palettes, how they enhance visual communication, and efficient strategies to choose the right color palette for your projects."
