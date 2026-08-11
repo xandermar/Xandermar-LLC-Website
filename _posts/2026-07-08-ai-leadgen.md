@@ -14,7 +14,6 @@ hero_image_alt: "Discover how Xandermar LLC uses AI lead generation, prospecting
 
 {% include hero.md %}
 
-# How Xandermar LLC Helps Businesses Generate More Leads With AI
 
 Finding new customers should not depend entirely on cold calling, manual research, inconsistent follow-up, or waiting for prospects to discover your business.
 
