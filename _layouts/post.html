@@ -2,10 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title | default: site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
-    <meta name="description" content="{{ seo_description | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 160 | escape }}">
+    {% include seo.html %}
 
     <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
     <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
@@ -54,8 +52,8 @@
           <main>
             {% capture generic_post_image_alt %}alt="Image"{% endcapture %}
             {% capture contextual_post_image_alt %}alt="Illustration for {{ page.title | escape }}"{% endcapture %}
-            {% if title %}
-              <h2>{{ title }}</h2>
+            {% if page.title %}
+              <h1>{{ page.title }}</h1>
             {% endif %}
             {{ content | replace: generic_post_image_alt, contextual_post_image_alt }}
 

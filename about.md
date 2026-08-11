@@ -1,6 +1,9 @@
 ---
 layout: default
 title: About
+seo_title: "About Xandermar LLC | Veteran-Owned Drupal & AI Consultancy"
+description: >-
+  Learn about Xandermar LLC, a veteran-owned Delaware consultancy specializing in Drupal, AI automation, and enterprise delivery.
 permalink: /about
 nav_order: 1
 hero_image: /assets/about-header.png
@@ -8,6 +11,8 @@ hero_image_alt: About Xandermar and our beginnings
 ---
 
 {% include hero.md %}
+
+# About Xandermar LLC
 
 ### And So It Began…
 

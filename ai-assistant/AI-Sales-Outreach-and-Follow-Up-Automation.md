@@ -1,10 +1,14 @@
 ---
 layout: default
 title: AI Sales Outreach and Follow-Up Automation
+seo_title: "AI Sales Outreach & Follow-Up Automation | Xandermar LLC"
+description: >-
+  Respond faster, revive cold leads, and keep follow-up consistent with AI sales outreach automation.
 permalink: /services/ai-assistant/AI-Sales-Outreach-and-Follow-Up-Automation
 nav_exclude: true
 schema_type: Service
 schema_description: AI sales outreach and follow-up automation that helps businesses respond faster, revive cold leads, and increase sales consistency.
+hero_image: /assets/images/ai06.jpg
 ---
 [Back to Services > AI Assistant](/services/ai-assistant)
 

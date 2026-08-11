@@ -8,8 +8,6 @@ post_description: "Explains the benefits of configuration export in web developm
 
 ![Image](/assets/g182c82a05e2ead25ed53600d8e2a34a056ccf35e89e6c8fed7c1b2cc2aef738c2241e2de2a578e74b8a8ddd4ec4b0fadc9d3d2710b53899c007f562b2e22de99_1280.jpg){: .img-fluid content-image-large }
 
-## Config Export
-
 Ensuring system configuration consistency across multiple environments can be a challenging task for any web developer or project manager. However, with the help of `config export`, these challenges may be mitigated, promoting a more efficient management of website projects.
 
 In web development, the use of `config export` can be seen as a best practice. This process allows developers to securely export system configurations from the local development environment to the production site. These configurations often include critical settings related to the website's design and other key functionalities. It assists in reducing errors and providing a controlled method to manage different system settings.

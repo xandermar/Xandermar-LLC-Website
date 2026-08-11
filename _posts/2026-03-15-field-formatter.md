@@ -8,8 +8,6 @@ post_description: "The article explores the concept of 'Field Formatter', delvin
 
 ![Image](/assets/gfa8cfb692634616d82fddde2cc72dda45e7a01a4cb199cbe81a2e8ad64d1a0823425fa5b238b5a3b2d954717eecd1a75dcd691f500697e6becd093abaec5f069_1280.jpg){: .img-fluid content-image-large }
 
-## Field Formatter 
-
 Field Formatter is an integral part of Drupal's built-in functionality, helping developers design and manage interactive, content-driven websites. It aids in providing an appropriate output of field data by 'formatting' it according to the defined specifications.
 
 Drupal, being a flexible and expansive content management system, offers a robust range of out-of-the-box field types that can be formatted in myriad ways, including text, images, date, and email. For instance, an image field can be formatted to display the image as a thumbnail, a medium, or a large image. Likewise, a text field could be formatted to display as plain text, trimmed or full text.

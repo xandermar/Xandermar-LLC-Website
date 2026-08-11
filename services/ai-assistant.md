@@ -1,10 +1,14 @@
 ---
 layout: default
 title: AI Assistant
+seo_title: "AI Assistant for Lead Gen, Sales & Support Automation | Xandermar LLC"
+description: >-
+  Deploy AI assistants for lead capture, sales follow-up, chatbots, scheduling, and CRM automation that convert more.
 permalink: /services/ai-assistant
 nav_exclude: true
 schema_type: Service
 schema_description: AI Assistant services that help businesses improve lead capture, follow-up, customer communication, scheduling, and workflow automation.
+hero_image: /assets/images/ai-assistant.png
 ---
 [Back to Services](/services)
 
@@ -71,7 +75,7 @@ AI can help businesses reduce manual work, save employee time, improve customer 
 
 ---
 
-# AI Services and Capabilities
+## AI Services and Capabilities
 
 ## AI Strategy and Readiness
 
@@ -344,7 +348,7 @@ Instead of relying only on generic AI apps, a custom solution can match your wor
 
 ---
 
-# Summary
+## Summary
 
 An AI Assistant can help your business respond faster, book more appointments, recover missed calls, support customers, improve employee productivity, automate workflows, generate leads, strengthen sales follow-up, and make better use of business data.
 

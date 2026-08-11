@@ -8,8 +8,6 @@ post_description: "Explore the intricacies of integrating and leveraging Phpstan
 
 ![Image](/assets/g2191faa9c56c130d88862148f2adf9723cf458aeb9db352a6a3fc1964516f8d00ec4a677ad9967c3d50f739ec17be807c0de41f61059f4cafa0681535774d883_1280.jpg){: .img-fluid content-image-large }
 
-## Phpstan-drupal
-
 In the complex and multifarious world of Drupal development, tools easing the development process are always welcome. One such instrument, Phpstan-drupal, an extension of PHPStan specifically designed for Drupal, has emerged as an essential aid for developers. PHPStan, a static analysis tool for Php, is an open-source project maintained by Ondřej Mirtes. This software scrutinizes your codebase for errors, thus promoting quality assurance and facilitating efficient coding. With Phpstan-drupal, this technology has been tailored to meet the needs of Drupal developers.
 
 Drupal, a PHP-based content management system (CMS), is a sophisticated platform supporting an array of features for developers and end-users. However, this complexity in functionality can leave room for development errors. That's where Phpstan-drupal comes in. This extension enhances PHPStan by providing understanding of Drupal's unique traits. With partial understanding of Hook implementations, Table Select, Configuration and Entity APIs, it moves ahead of the standard PHP static analysis tools.

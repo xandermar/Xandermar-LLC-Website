@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Drupal Flat-Rate Upgrade Service
+seo_title: "Drupal Flat-Rate Upgrade & Maintenance | Xandermar LLC"
+description: >-
+  Flat-rate Drupal core and module updates with backups, config exports, and testing—keep sites secure without fire drills.
 permalink: /services/drupal-flat-rate-upgrade-service
 nav_exclude: true
 schema_type: Service
@@ -10,7 +13,7 @@ schema_description: A flat-rate Drupal maintenance service for routine core and 
 
 {% include services.html %}
 
-## <span class="xi-lock xi-24 xi-charcoal xi-inline" aria-hidden="true"></span>Drupal Flat-Rate Upgrade Service
+# <span class="xi-lock xi-24 xi-charcoal xi-inline" aria-hidden="true"></span>Drupal Flat-Rate Upgrade Service
 Keep your Drupal environments up-to-date, secure, and stable without the stress of emergency patching.
 
 If you are running Drupal in production, updates are not optional. Core and contributed modules receive security releases and bug fixes regularly, and delaying updates increases risk over time. This service gives you a predictable monthly maintenance plan so your team can stay focused on business priorities while updates are handled professionally.

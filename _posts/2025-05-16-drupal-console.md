@@ -8,8 +8,6 @@ post_description: "A summary of Drupal Console, its command-line tools for gener
 
 ![Image](/assets/g1568d9b6ae2837bfc66d7c56427e916027e92e8039b19f1f9fd2cb8740548f5fe567f5e47f732ad85c94e25009e2bea30349082c228aeb6d874f409ca8087578_1280.jpg){: .img-fluid content-image-large }
 
-## Drupal Console
-
 Drupal Console is a suite of tools designed to help you generate boilerplate code and interact with a Drupal 8 installation. From generating new modules to debugging existing ones, Drupal Console can handle it. In this post, we'll examine some of the core features and usages of this invaluable tool.
 
 The Drupal Console project uses Symfony Console and other third-party components to add a CLI (Command Line Interface) to Drupal, allowing for the generation of boilerplate code. It comes with a variety of commands and tasks for managing your Drupal site, becoming a crucial tool in every Drupal developer’s toolbox. Benefits range from learning how the framework operates, debugging systems, and speeding up administrative tasks.

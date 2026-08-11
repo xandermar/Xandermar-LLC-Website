@@ -1,10 +1,14 @@
 ---
 layout: default
-title: AI Website Chatbot / Customer Service Assistant
+title: AI Content Marketing and SEO Automation
+seo_title: "AI Content Marketing & SEO Automation | Xandermar LLC"
+description: >-
+  AI content marketing and SEO automation to publish consistently, target keywords, and turn traffic into leads.
 permalink: /services/ai-assistant/AI-content-marketing-and-SEO-automation
 nav_exclude: true
 schema_type: Service
 schema_description: AI content marketing and SEO automation services that help businesses publish more effectively, improve visibility, and convert traffic into leads.
+hero_image: /assets/images/ai16.jpg
 ---
 [Back to Services > AI Assistant](/services/ai-assistant)
 

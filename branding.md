@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "2026 Branding Book"
+seo_title: "2026 Branding Book | Xandermar LLC"
 description: "The official 2026 visual identity, typography, color, messaging, and digital brand standards for Xandermar LLC."
 permalink: "/branding"
 nav_exclude: true
@@ -18,7 +19,7 @@ The purpose of this guide is to ensure that every Xandermar experience feels con
 
 **Company:** Xandermar LLC
 
-**Primary Website:** xandermar.com
+**Primary Website:** www.xandermar.com
 
 **Primary Brand Positioning:**
 Xandermar helps businesses improve efficiency, increase productivity, generate leads, automate operations, and build high-performance digital platforms through artificial intelligence, web engineering, and business automation.

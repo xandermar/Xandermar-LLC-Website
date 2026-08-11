@@ -1,10 +1,14 @@
 ---
 layout: default
 title: Continuous Integration and DevOps Services
+seo_title: "CI/CD & DevOps Consulting | Xandermar LLC"
+description: >-
+  CI/CD and DevOps consulting to automate builds, testing, and deployments so your team ships with fewer release risks.
 permalink: /services/continuous-integration-and-devops-services
 nav_exclude: true
 schema_type: Service
 schema_description: Continuous integration and DevOps consulting that improves build automation, testing, deployment reliability, and team delivery workflows.
+hero_image: /assets/images/devops.jpg
 ---
 [Back to Services](/services)
 

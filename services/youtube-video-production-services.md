@@ -1,10 +1,14 @@
 ---
 layout: default
 title: YouTube Video Production Services
+seo_title: "YouTube Video Production Services | Xandermar LLC"
+description: >-
+  YouTube video production and editing that improve audio, visuals, and channel visibility for business marketing.
 permalink: /services/youtube-video-productions-services
 nav_exclude: true
 schema_type: Service
 schema_description: YouTube video production services that improve video editing, audio quality, and channel visibility for business marketing.
+hero_image: /assets/images/youtube.jpg
 ---
 [Back to Services](/services)
 

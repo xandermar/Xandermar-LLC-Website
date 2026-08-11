@@ -8,8 +8,6 @@ post_description: "A detailed explanation of JavaScript's addEventListener metho
 
 ![Image](/assets/g98f691f5ea947708e91abb44d0fa87765e210d384a1cea80d30a14603512395210111fa9890f48116d4fb3c8f93d3e2c062e03945e90305a8d0adb3bb8da9ae9_1280.jpg){: .img-fluid content-image-large }
 
-## Addeventlistener
-
 The purpose of this blog is to delve into the intricate details of the `addEventListener` method in JavaScript. This method is a prolific tool in the sphere of Web Development, it's a means of attaching an event handler to the specified element without interfering with an existing event handler. The `addEventListener()` method has diverse applications, it can be used to listen for an array of website events such as clicks, page load, key presses and mouse movement.
 
 Wholeheartedly adopted by modern JavaScript, the `addEventListener()` method caters to multiple events per element. This aspect marks its edge over the traditional event handling method which only allows one event per element. Furthermore, you can also specify whether the event should be executed in the capturing or bubbling phase. Capturing phase means the event has been dispatched to its target, whereas bubbling phase means the event is being propagated back to its original target after reaching the terminal target.

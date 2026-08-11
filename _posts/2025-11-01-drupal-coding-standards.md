@@ -8,8 +8,6 @@ post_description: "Explore the intricacies of following Drupal coding standards,
 
 ![Image](/assets/gd866f91e81c85618665876491068e024cd19e2c77f217cfc672e369ae0bf0505d8718e7c0ff29c85fdc1b103e3ed9cf6895f1434f32551ca4ed5bfe5089b9d4a_1280.jpg){: .img-fluid content-image-large }
 
-## Drupal Coding Standards
-
 Drupal, the renowned open-source web content management framework, promotes a culture of adhering to specific coding standards. These standards help in maintaining a unified and more readable code base which eventually aids in efficient website project management. So, having a clear understanding of Drupal coding standards is indispensable for any Drupal developer.
 
 To start with, Drupal primarily uses PHP, so one should follow PHP coding standards. According to Drupal, PHP code needs to be written in a way that it meets the standards of the PHP Framework Interoperability Group. Developers are supposed to use an indent of 2 spaces, and not use tab. Have a look at the following PHP code which follows Drupal's coding standards:

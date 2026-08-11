@@ -1,10 +1,14 @@
 ---
 layout: default
 title: AI CRM, Quoting, and Proposal Automation
+seo_title: "AI CRM, Quoting & Proposal Automation | Xandermar LLC"
+description: >-
+  Organize leads, speed up quotes, and standardize proposals with AI CRM automation that converts more opportunities.
 permalink: /services/ai-assistant/AI-CRM-quoting-and-proposal-automation
 nav_exclude: true
 schema_type: Service
 schema_description: AI CRM, quoting, and proposal automation that helps businesses organize leads, accelerate quotes, and create more consistent sales workflows.
+hero_image: /assets/images/ai22.jpg
 ---
 [Back to Services > AI Assistant](/services/ai-assistant)
 

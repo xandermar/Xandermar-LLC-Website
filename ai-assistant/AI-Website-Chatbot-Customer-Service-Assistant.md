@@ -1,10 +1,14 @@
 ---
 layout: default
 title: AI Website Chatbot / Customer Service Assistant
+seo_title: "AI Website Chatbot & Customer Service Assistant | Xandermar LLC"
+description: >-
+  Capture leads and answer questions around the clock with an AI website chatbot that improves response times.
 permalink: /services/ai-assistant/AI-Website-Chatbot-Customer-Service-Assistant
 nav_exclude: true
 schema_type: Service
 schema_description: AI website chatbot and customer service assistant solutions that capture leads, answer questions, and improve response times around the clock.
+hero_image: /assets/images/ai10.jpg
 ---
 [Back to Services > AI Assistant](/services/ai-assistant)
 

@@ -8,8 +8,6 @@ post_description: "This article delves into the concept of 'Source Tag', sheddin
 
 ![Image](/assets/g4f94f4a1ead4ee5d42d1a4e194bb52ee0714519896bb7e543ab39b6c2e51ee46eddf6b003bbf2aacaa4a7395e114d068004fc514672572bdd5d223ce78e0501b_1280.jpg){: .img-fluid content-image-large }
 
-## Source Tag
-
 The `source` tag, an integral part of modern web development, provides multiple media resources for media elements like `<video>` and `<picture>`. It is immensely useful for developers working with responsive or adaptive designs, where different resources may be needed depending upon device characteristics. 
 
 Drupal, a popular content management framework for building web applications, effectively makes use of the `source` tag to manage multiple media resources. For instance, when building a responsive design, you might want to serve higher resolution images to devices with larger screens, while serving smaller images to devices with less powerful processing capabilities. This can be easily achieved in Drupal by using the `source` tag.

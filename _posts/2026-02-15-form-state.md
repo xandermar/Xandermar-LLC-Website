@@ -8,8 +8,6 @@ post_description: "Explore the concept of 'Form State' in detail, including its 
 
 ![Image](/assets/ge9b1c2b5c888814693bca577fa936a2d45f8891377bf8438e4ef519de428a976aaa7aef67da3b8da003d0cda3ec53937f567ad70462e2a115236c6351b3470e3_1280.jpg){: .img-fluid content-image-large }
 
-## Form State
-
 It is impossible to mention Drupal Web Development without bringing up the topic of Form State. How your form maintains its 'state' or information during user interaction plays a crucial role in the usability and functionality of your website. The Form State is an array that stores temporary form data including the form's build ID, form object, and user input.
 
 Here's what that looks like in code:

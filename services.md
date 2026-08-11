@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Services
+seo_title: "AI, Drupal & Digital Services | Xandermar LLC"
+description: >-
+  Explore AI assistants, Drupal development, web design and hosting, DevOps, signage, and video production services.
 permalink: /services
 nav_order: 2
 hero_image: /assets/services.jpg

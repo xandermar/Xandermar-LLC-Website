@@ -1,5 +1,8 @@
 ---
 title: Contact Us
+seo_title: "Contact Xandermar LLC | Free AI Consultation"
+description: >-
+  Contact Xandermar LLC for Drupal, AI automation, and web consulting. Book a free AI strategy call.
 layout: default
 permalink: /contact-us
 nav_order: 4

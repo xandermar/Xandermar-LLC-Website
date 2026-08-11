@@ -8,8 +8,6 @@ post_description: "Explore the versatile CSS property 'Background-repeat' and le
 
 ![Image](/assets/g324fbf3717111791b1f701d181149585b1de673ff225361a9cd2b0436810aa57863a10a92424cd8c0fb78d3e2070a57e905e25547464ac133816ac9b8c53b56f_1280.jpg){: .img-fluid style="max-height:720px; height:auto;" }
 
-## Background-repeat
-
 In the world of web development, the term 'background-repeat' refers to a property in CSS (Cascading Style Sheets) that greatly influences the visual aesthetics of a website. Particularly in Drupal Development, the 'background-repeat' property often plays a crucial role in designing appealing web pages that hold the user's attention. This property directly controls the repetition of a background image on a web page, hence the name 'background-repeat'.
 
 There are four primary values that the 'background-repeat' property accepts: 'repeat', 'repeat-x', 'repeat-y', and 'no-repeat'. The 'repeat' value will make your selected background image repeat both horizontally and vertically, thereby covering the entire element. 'Repeat-x' repeats the background image horizontally while 'repeat-y' repeats it vertically. When the value of 'background-repeat' is set to 'no-repeat', the background image appears on the webpage just once.

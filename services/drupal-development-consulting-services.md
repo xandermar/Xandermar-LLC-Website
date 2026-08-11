@@ -1,10 +1,14 @@
 ---
 layout: default
 title: Drupal Development and Consulting
+seo_title: "Drupal Development & Consulting | Xandermar LLC"
+description: >-
+  Expert Drupal development, migration, and consulting for government and enterprise—secure platforms built to scale.
 permalink: /services/drupal-development-and-consulting
 nav_exclude: true
 schema_type: Service
 schema_description: Drupal development, consulting, and migration services for enterprise, government, and private-sector organizations.
+hero_image: /assets/images/drupal.jpg
 ---
 [Back to Services](/services)
 
