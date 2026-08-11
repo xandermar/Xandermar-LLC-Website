@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Async/await"
+seo_index: false
 date: 2025-05-20
 categories: [javascript, web-development, async-await]
 post_description: "An introduction to async/await in JavaScript, explaining how it simplifies asynchronous programming and improves code readability."

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Destructuring"
+seo_index: false
 date: 2025-05-23
 categories: [javascript, programming, web-development]
 post_description: "Explains JavaScript destructuring, showing how to extract values from arrays and objects for cleaner, more maintainable code."

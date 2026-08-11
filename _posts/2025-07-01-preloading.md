@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Preloading"
+seo_index: false
 date: 2025-07-01
 categories: [web-performance, css, html]
 post_description: "Explore the world of 'Preloading' in this comprehensive article that dives into its concept, benefits, and various effective techniques within the context of improving web page performance and user experience."

@@ -12,6 +12,7 @@ permalink: /sitemap.xml
   {% if excluded_urls contains item_url %}{% assign skip = true %}{% endif %}
   {% if item_url contains '/assets/' %}{% assign skip = true %}{% endif %}
   {% if item_url contains '.css' or item_url contains '.js' or item_url contains '.scss' or item_url contains '.map' %}{% assign skip = true %}{% endif %}
+  {% if item.seo_index == false %}{% assign skip = true %}{% endif %}
   {% unless skip %}
   <url>
     <loc>{{ sitemap_base_url }}{{ item_url | relative_url }}</loc>
@@ -20,15 +21,19 @@ permalink: /sitemap.xml
   {% endunless %}
 {% endfor %}
 {% for item in site.posts %}
+  {% unless item.seo_index == false %}
   <url>
     <loc>{{ sitemap_base_url }}{{ item.url | relative_url }}</loc>
     <lastmod>{{ item.date | date_to_xmlschema }}</lastmod>
   </url>
+  {% endunless %}
 {% endfor %}
 {% for item in site.category_pages %}
+  {% unless item.seo_index == false %}
   <url>
     <loc>{{ sitemap_base_url }}{{ item.url | relative_url }}</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
   </url>
+  {% endunless %}
 {% endfor %}
 </urlset>

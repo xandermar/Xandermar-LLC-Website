@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Story Points"
+seo_index: false
 date: 2025-06-15
 categories: [agile-methodology, project-management, software-development]
 post_description: "Explore the concept of 'Story Points' in Agile project management, understanding its significance, methods of estimation, and how it contributes to effective planning and forecasting in software development processes."

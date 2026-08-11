@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Console.log"
+seo_index: false
 date: 2025-05-22
 categories: [javascript, web-development, debugging]
 post_description: "A practical overview of the console.log method in JavaScript, its uses for debugging, and best practices for development and production."

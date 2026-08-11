@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Webassembly"
+seo_index: false
 date: 2025-06-15
 categories: [web-development, programming-languages, web-tech]
 post_description: "Explore the capabilities of Webassembly as we delve into its practical applications, advantages, and implementation strategies for optimized web performance and speed in this comprehensive guide."

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hook_preprocess_hook"
+seo_index: false
 date: 2026-05-15
 categories: [drupal, web-development, programming]
 post_description: "This article provides an in-depth exploration of the 'hook_preprocess_hook' concept in Drupal, elucidating its usage, its functions, and practical examples to aid developers in enhancing and customizing web content effectively."

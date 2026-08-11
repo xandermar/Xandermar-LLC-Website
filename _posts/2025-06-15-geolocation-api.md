@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Geolocation Api"
+seo_index: false
 date: 2025-06-15
 categories: [api, web-development, geolocation]
 post_description: "Explore the intricacies of integrating and leveraging the Geolocation API in web and mobile applications, understanding its capabilities, limitations, and how it contributes to enhanced user experiences by providing location-based services."

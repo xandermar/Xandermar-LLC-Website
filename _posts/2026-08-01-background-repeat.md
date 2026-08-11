@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Background-repeat"
+seo_index: false
 date: 2026-08-01
 categories: [css, web-design, programming]
 post_description: "Explore the versatile CSS property 'Background-repeat' and learn how to manipulate background images in your web design projects, diving into options for repeating, spacing, and positioning for a distinct visual effect."

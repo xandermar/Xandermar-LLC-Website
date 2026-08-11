@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Grid Layout"
+seo_index: false
 date: 2025-05-24
 categories: [web-design, css, front-end-development]
 post_description: "An in-depth guide to CSS Grid Layout, its benefits for responsive web design, and its integration with Drupal for modern, maintainable layouts."

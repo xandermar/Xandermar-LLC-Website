@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Addeventlistener"
+seo_index: false
 date: 2025-05-15
 categories: [javascript, web-development, programming]
 post_description: "A detailed explanation of JavaScript's addEventListener method, its syntax, event handling capabilities, and advantages for interactive web design."

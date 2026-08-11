@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Meta Description"
+seo_index: false
 date: 2026-01-15
 categories: [seo, web-development, content-marketing]
 post_description: "Explore the importance of a proficiently written Meta Description for SEO rankings, its role in captivating user attention, best practices for crafting compelling Meta Descriptions, plus tips to avoid common mistakes in this all-encompassing guide."
