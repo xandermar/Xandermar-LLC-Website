@@ -1,10 +1,14 @@
 ---
 layout: default
 title: Web Design and Hosting
+seo_title: "Web Design & Hosting Services | Xandermar LLC"
+description: >-
+  Custom web design and reliable hosting for Drupal and WordPress—secure, modern, and built for performance.
 permalink: /services/web-design-and-hosting
 nav_exclude: true
 schema_type: Service
 schema_description: Web design and hosting services focused on Drupal and WordPress websites that are secure, modern, and easy to maintain.
+hero_image: /assets/images/web-design.jpg
 ---
 [Back to Services](/services)
 

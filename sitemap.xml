@@ -4,13 +4,20 @@ permalink: /sitemap.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-{% assign sitemap_base_url = site.url | replace: 'http://localhost:4000', 'https://xandermar.com' | replace: 'https://localhost:4000', 'https://xandermar.com' %}
-{% assign sitemap_pages = site.pages | where_exp: "item", "item.url != '/404.html' and item.url != '/feed.xml' and item.url != '/sitemap.xml'" %}
-{% for item in sitemap_pages %}
+{% assign sitemap_base_url = site.url | replace: 'http://localhost:4000', 'https://www.xandermar.com' | replace: 'https://localhost:4000', 'https://www.xandermar.com' | replace: 'https://xandermar.com', 'https://www.xandermar.com' %}
+{% assign excluded_urls = '/404.html,/feed.xml,/sitemap.xml,/robots.txt' | split: ',' %}
+{% for item in site.pages %}
+  {% assign item_url = item.url | default: '' %}
+  {% assign skip = false %}
+  {% if excluded_urls contains item_url %}{% assign skip = true %}{% endif %}
+  {% if item_url contains '/assets/' %}{% assign skip = true %}{% endif %}
+  {% if item_url contains '.css' or item_url contains '.js' or item_url contains '.scss' or item_url contains '.map' %}{% assign skip = true %}{% endif %}
+  {% unless skip %}
   <url>
-    <loc>{{ sitemap_base_url }}{{ item.url | relative_url }}</loc>
+    <loc>{{ sitemap_base_url }}{{ item_url | relative_url }}</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
   </url>
+  {% endunless %}
 {% endfor %}
 {% for item in site.posts %}
   <url>

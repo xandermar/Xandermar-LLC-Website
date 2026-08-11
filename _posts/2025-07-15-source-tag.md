@@ -8,8 +8,6 @@ post_description: "Exploring the role and utility of the 'Source Tag' in HTML, t
 
 ![Image](/assets/g2dfdab7bb5349c2a341bb4f3ba4c2669fe0a06f3b5dea69ed10511bdafca24ab373269ab6e85ae79d1315bd6a1b179510d58877e6afa08425ff73b581a0e67d6_1280.jpg){: .img-fluid content-image-large }
 
-## Source Tag
-
 The `<source>` tag in HTML5 allows web developers to specify multiple media resources for media elements, such as `<video>` and `<audio>`. This tag ensures that the media attachments will render smoothly, regardless of what platform, device, or browser a user is running, thereby providing a seamless user experience across all platforms.
 
 Its advantage is the possibility to offer a variable set of video or audio formats, resolutions, and bitrates. Moreover, it signals a major shift away from Flash video, which is characterized by incompatibilities and resource-demanding characteristics. In simple terms, the `<source>` tag enables browser-native fallbacks, which can provide alternative media sources for the system or device that can't support the initial file format.

@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Delaware AI Consulting
+seo_title: "Delaware AI Consulting & Workflow Automation | Xandermar LLC"
+description: >-
+  Delaware AI consulting for strategy, lead conversion, chatbots, and workflow automation—with local and remote support.
 permalink: /delaware-ai-consulting
 nav_exclude: true
 hero_image: /assets/images/ai-assistant.png

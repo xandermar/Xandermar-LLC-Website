@@ -1,10 +1,14 @@
 ---
 layout: default
 title: AI Lead Generation and Prospecting
+seo_title: "AI Lead Generation & Prospecting | Xandermar LLC"
+description: >-
+  Find better prospects, automate outreach, and grow a steadier sales pipeline with AI lead generation services.
 permalink: /services/ai-assistant/AI-Lead-Generation-and-Prospecting
 nav_exclude: true
 schema_type: Service
 schema_description: AI lead generation and prospecting services that help businesses identify better prospects, automate outreach, and grow a more consistent sales pipeline.
+hero_image: /assets/images/ai01.jpg
 ---
 [Back to Services > AI Assistant](/services/ai-assistant)
 

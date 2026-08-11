@@ -8,8 +8,6 @@ post_description: "Covers the principles of responsive web design, including fle
 
 ![Image](/assets/g5434b197075b30964e9286ad57ca8e0c3f70e29a3d15b7e9384329a891a035e10492784abf53a049623bf679a35559ef8d9f085bde524f4897ac2bc29accaf45_1280.png){: .img-fluid content-image-large }
 
-## Responsive Design
-
 In the current era of web design and development, responsive design plays an important role. It is the approach where the design and development should respond to the user's behavior and environment based on screen size, platform, and orientation. The practice consists of a mix of flexible grids and layouts, images, and an intelligent use of CSS media queries.
 
 Considering Drupal Content Management System for instance, it evidently supports responsive design out-of-the-box. An impressive feature of Drupal is its mobile-first approach to design. Drupal's themes are responsive by default, meaning they will automatically adjust and fit your content to any screen size. You'll find in Drupal a wide selection of themes and design options that support an array of screen sizes and devices. Indeed, the power of Drupal lies in the hands of the website owner, and with the right tools and knowledge, you can create a media-rich, aesthetically pleasing website that caters to users, no matter their device.

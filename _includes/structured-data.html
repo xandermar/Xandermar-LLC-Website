@@ -1,7 +1,7 @@
 {% assign business_url = '/' | absolute_url %}
 {% assign page_url = page.url | absolute_url %}
 {% assign page_name = page.title | default: site.title %}
-{% assign page_description = page.schema_description | default: page.description | default: site.description %}
+{% assign page_description = page.schema_description | default: page.description | default: page.post_description | default: site.seo_description | default: site.description %}
 {% assign site_logo_url = site.schema_logo | absolute_url %}
 {% assign site_image_url = site.schema_image | absolute_url %}
 {% assign page_image_url = page.hero_image | default: site.schema_image | absolute_url %}

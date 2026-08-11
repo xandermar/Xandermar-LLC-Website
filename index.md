@@ -3,11 +3,15 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+seo_title: "AI & Drupal Consulting for Government & Enterprise | Xandermar LLC"
+description: >-
+  Veteran-owned Delaware consultancy delivering Drupal, cloud, and AI automation for federal
+  agencies and enterprises.
 ---
 
 {% include responsive-picture.html src="/assets/splash.jpg" alt="Workspace illustration representing enterprise engineering, AI automation, and digital platform delivery" class="hero-image-full" width="1200" height="500" loading="eager" fetchpriority="high" decoding="async" widths=site.responsive_image_defaults.widths sizes=site.responsive_image_defaults.sizes %}
 
-## <span class="xi-next xi-24 xi-blue xi-inline" aria-hidden="true"></span>Xandermar LLC - Engineering Digital Excellence
+# <span class="xi-next xi-24 xi-blue xi-inline" aria-hidden="true"></span>Xandermar LLC - Engineering Digital Excellence
 
 **At Xandermar LLC, we don’t just build websites — we architect solutions that scale, perform, and deliver.**
 With over 25 years of experience powering complex digital ecosystems for federal agencies and private enterprises, we specialize in mission-critical development, cloud-native deployments, and intelligent automation.

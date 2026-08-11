@@ -8,8 +8,6 @@ post_description: "Explores the value of retrospectives in software development,
 
 ![Image](/assets/gb0bdc4a3fd0cdbf11432630db01549cb66ab1fe871a9e756166c9ced2bd3118a1311bcc08afb802d94e52a0e87f814064156182f700b89dc75f24f103785b175_1280.jpg){: .img-fluid content-image-large }
 
-## Retrospective
-
 In the realm of software development, retrospectives are a valuable tool. They serve as periodic checkpoints where software development teams can look back on their processes and outcomes, and rethink their approach on continuous improvement and adaptability. These retrospectives allow teams to pause and reflect on their successes and defeat, determine what practices and principles are working or not working, and strategise on how to improve or eliminate those.
 
 The concept of retrospectives hails back from the Agile Manifesto with the 12th principle stating, "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly". The ultimate goal of retrospectives is not just to identify problems, but to promote a culture of continuous improvement and trust within a team. They encourage teams to be transparent, share knowledge, and take collective ownership of problems and solutions.

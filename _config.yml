@@ -27,13 +27,18 @@ description: >- # this means to ignore newlines until "baseurl:"
   digital solutions, and web hosting for government and private clients. Founded in 2010,
   it provides full project lifecycle support, including development, design, and deployment,
   with a focus on scalable and secure web platforms.
+seo_title: "AI & Drupal Consulting for Government & Enterprise | Xandermar LLC"
+seo_description: >-
+  Veteran-owned Delaware consultancy delivering Drupal, cloud, and AI automation for federal
+  agencies and enterprises.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://xandermar.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.xandermar.com" # preferred canonical host (www)
 twitter_username: xandermar
 github_username:  xandermar
 phone: "+1-302-328-8855"
 schema_logo: "/assets/images/logo2026.png"
 schema_image: "/assets/splash.jpg"
+og_image: "/assets/splash.jpg"
 address_locality: "Milton"
 address_region: "DE"
 address_country: "US"

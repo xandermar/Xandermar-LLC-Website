@@ -8,8 +8,6 @@ post_description: "An introduction to CSS viewport units (vh, vw, vmin, vmax), t
 
 ![Image](/assets/g816a1b951271fcaf001d0c97468c07180375cc9b3dd327ae0c6ce9976039e6a7825150f3464b92a65324585e7b431e61e809e1f9c8aed5170c9717491c9bea57_1280.jpg){: .img-fluid content-image-large }
 
-## Viewport Units
-
 In the fascinating world of web development and design, the viewport is an essential concept that can make or break the responsiveness and overall layout of a website. Essentially defined as the area of a web page a user can see, it has a direct impact on how a website behaves across different screen resolutions and devices. The voyage towards responsive web design is made considerably less complex courtesy to viewport units, which are a relatively newer unit of measurement facilitating in making designs more scalable and flexible.
 
 Viewport Units, in their technical essence, represent a percentage of the browser’s visible area, or viewport. There are four universally recognized varieties of them - vh (viewport height), vw (viewport width), vmin (minimum of vh and vw) and vmax (maximum of vh and vw). When you size elements on a website using viewport units, they scale in response to the current viewport dimensions, thus ensuring that the design maintains its proportions regardless of the user's device or screen resolution.

@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Portfolio
+seo_title: "Case Studies & Past Performance | Xandermar LLC"
+description: >-
+  Portfolio of Drupal, AI, and enterprise platform delivery for FAA, CMS, USPS OIG, and private-sector clients.
 permalink: /portfolio
 nav_order: 3
 hero_image: /assets/portfolio.jpg
@@ -9,7 +12,7 @@ hero_image_alt: Portfolio banner representing past engineering, Drupal, AI, and 
 
 {% include hero.md %}
 
-## <span class="xi-next xi-24 xi-blue xi-inline" aria-hidden="true"></span>Portfolio for Xandermar LLC
+# <span class="xi-next xi-24 xi-blue xi-inline" aria-hidden="true"></span>Portfolio for Xandermar LLC
 
 **AI Architect · Drupal Expert · Scalable Web Solutions**
 

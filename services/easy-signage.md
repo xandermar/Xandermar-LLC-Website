@@ -1,10 +1,14 @@
 ---
 layout: default
 title: Easy Signage
+seo_title: "Digital Signage Services | Easy Signage by Xandermar"
+description: >-
+  Digital signage for restaurants, hotels, and venues—remote content updates and simpler day-to-day screen management.
 permalink: /services/easy-signage
 nav_exclude: true
 schema_type: Service
 schema_description: Digital signage services for restaurants, hotels, entertainment venues, and other businesses that need remote content management.
+hero_image: /assets/images/signage.jpg
 ---
 [Back to Services](/services)
 

@@ -1,6 +1,9 @@
 ---
 layout: default-no-post-list
 title: Articles
+seo_title: "Articles & Technical Guides | Xandermar LLC"
+description: >-
+  Browse articles on Drupal, AI, web development, and digital strategy—practical guides for engineers and business teams.
 permalink: /articles
 nav_order: 4.1
 hero_image: /assets/articles.jpg
