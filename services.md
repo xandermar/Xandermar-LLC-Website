@@ -34,6 +34,7 @@ At Xandermar LLC, we provide a comprehensive suite of digital solutions tailored
 
 <div class="quick-links-panel">
 	<strong class="quick-links-title">Quick Links</strong>
+	<a href="#nodevteam">NoDevTeam</a> |
 	<a href="#drupal-flat-rate-upgrade-service">Drupal Flat-Rate Upgrade</a> |
 	<a href="#drupal-development-and-consulting">Drupal Development and Consulting</a> |
 	<a href="#web-design-and-hosting">Web Design and Hosting</a> |
@@ -41,6 +42,21 @@ At Xandermar LLC, we provide a comprehensive suite of digital solutions tailored
 	<a href="#youtube-video-production-services">YouTube Video Production</a> |
 	<a href="#continuous-integration">Continuous Integration and DevOps Services</a>
 </div>
+
+---
+
+<a id="nodevteam"></a>
+## <span class="xi-automation xi-24 xi-green xi-inline" aria-hidden="true"></span>[NoDevTeam](/services/nodevteam)
+
+Xandermar’s latest product for **full development automation**. Pick your stack, connect Jira, GitHub, and your AI agent of choice—then create a ticket and move it to **In Progress** to execute development automatically.
+
+**How it works:**
+
+* Choose from Drupal, WordPress, Laravel, Symfony, Magento, and many other supported stacks
+* Connect Jira, GitHub, and AI agents such as Cursor, Claude Code, GitHub Copilot, and more
+* Create a ticket, change the status to In Progress, and review finished work in your environment in minutes
+
+NoDevTeam is still developing—more details coming soon. [Explore NoDevTeam](/services/nodevteam).
 
 ---
 
