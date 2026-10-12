@@ -26,7 +26,7 @@ With over 25 years of experience powering complex digital ecosystems for federal
 	</ul>
 	Xandermar’s latest product for teams that want ticket-driven development without the handoff overhead. More details coming soon.
 	<p class="feature-panel-cta-wrap">
-		<a href="/nodevteam" class="feature-panel-cta">Explore NoDevTeam</a>
+		<a href="/services/nodevteam" class="feature-panel-cta">Explore NoDevTeam</a>
 	</p>
 </div>
 
