@@ -5,7 +5,7 @@ seo_title: "NoDevTeam — Full Development Automation | Xandermar LLC"
 description: >-
   NoDevTeam by Xandermar: pick your stack, connect Jira, GitHub, and your AI agent,
   then move a ticket to In Progress to ship development automatically.
-permalink: /nodevteam
+permalink: /services/nodevteam
 nav_exclude: true
 schema_type: Service
 schema_description: >-
@@ -14,6 +14,9 @@ schema_description: >-
 hero_image: /assets/images/devops.jpg
 hero_image_alt: Development automation illustrating stack selection, Jira, GitHub, and AI agent workflows
 ---
+[Back to Services](/services)
+
+{% include services.html %}
 
 {% include hero.md %}
 
