@@ -17,6 +17,20 @@ description: >-
 With over 25 years of experience powering complex digital ecosystems for federal agencies and private enterprises, we specialize in mission-critical development, cloud-native deployments, and intelligent automation.
 
 <div class="feature-panel">
+	<strong class="feature-panel-title">New: NoDevTeam — Full Development Automation</strong>
+	<ul>
+	<li>Pick your stack (Drupal, WordPress, Laravel, Symfony, Magento, and more)</li>
+	<li>Connect Jira, GitHub, and your AI agent of choice</li>
+	<li>Create a ticket, move it to In Progress, and development runs automatically</li>
+	<li>Review finished work in your environment in minutes</li>
+	</ul>
+	Xandermar’s latest product for teams that want ticket-driven development without the handoff overhead. More details coming soon.
+	<p class="feature-panel-cta-wrap">
+		<a href="/nodevteam" class="feature-panel-cta">Explore NoDevTeam</a>
+	</p>
+</div>
+
+<div class="feature-panel">
 	<strong class="feature-panel-title">New: AI Assistant for Priority AI Services</strong>
 	<ul>
 	<li>AI lead generation and prospecting</li>
