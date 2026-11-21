@@ -70,3 +70,4 @@ Entitytyperepository
 Lazy Loading
 Source Plugin
 Caching
+Page Speed
